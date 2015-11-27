@@ -1,3 +1,4 @@
+# 영어 단어의 뜻을 Naver에서 갖고오기
 import sys
 import urllib.request
 import re
