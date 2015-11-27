@@ -1,0 +1,1101 @@
+text 1	text 2	text 3	text 4
+authenticate	진짜임을 증명하다	The letter has been authenticated by handwriting experts.	그 편지는 필체 전문가들에 의해 진짜임이 밝혀졌다.
+accustom	익히다, 익숙케 하다, 길들게 하다 ((to))	( accustom +[목]+[전]+[명] ) accustom  one's ears to the noises of city life.	도시 생활의 소음에 귀를 길들이다.
+flourish	번창하다	Few businesses are flourishing in the present economic climate.	현 경제 상황에서는 번창하는 사업체가 별로 없다.
+appliance	(가정용) 기기	electrical/household appliances.	가전제품/가정용 기기.
+tentative	잠정적인	We made a tentative arrangement to meet on Friday.	우리는 금요일에 만나기로 잠정적으로 정했다.
+courteous	공손한, 정중한	a courteous young man.	공손한 청년.
+ominous	불길한	There were ominous dark clouds gathering overhead.	머리 위로 불길한 먹구름이 몰려들고 있었다.
+multiracial	다민족의, 복합 인종의	a multiracial society.	다민족 사회.
+extension	(세력・영향력・혜택 등의) 확대	the extension of new technology into developing countries.	개발도상국들로의 신기술 확대.
+customarily	습관적으로, 관례상	Is it customary to tip hairdressers in this country?.	이 나라에서는 미용사에게 팁을 주는 것이 관례인가요?.
+ambience	(어떤 장소의) 분위기	the relaxed ambience of the city.	그 도시의 느긋한 분위기.
+endemic	(특정 지역・집단) 고유의, 고질적인, 풍토적인	Malaria is endemic in many hot countries.	말라리아는 많은 열대 국가들의 풍토병이다.
+foreboding	(불길한) 예감	She had a sense of foreboding that the news would be bad.	그녀는 그 소식이 나쁜 것일 거라는 예감이 들었다.
+slander	모략, 중상, 비방; (말로 하는) 명예 훼손죄	a vicious slander on the company's good name.	그 회사의 명성에 대한 악의적인 모략.
+obviate	(문제・필요성을) 제거[배제]하다	This new evidence obviates the need for any further enquiries.	이 새 증거로 더 이상 조사할 필요가 없어졌다.
+spoil	망치다, 버려 놓다, 못쓰게 만들다	Our camping trip was spoilt by bad weather.	우리의 캠핑 여행은 날씨가 안 좋아서 망쳐 버렸다.
+prolific	다작하는	a prolific author.	다작 작가.
+bigotry	심한 편견		
+excoriate	(피부가) 벗겨지게 하다, 찰과상을 입히다		
+incurable	치유할 수 없는, 불치의	an incurable disease/illness.	불치병.
+haughty	거만한, 오만한	a haughty face/look/manner.	거만한 얼굴/표정/태도.
+caliber	(총·포의) 구경; (원통의) 직경	a pistol of small caliber.	소구경의 권총.
+blush	얼굴을 붉히다, 얼굴이 빨개지다	to blush with embarrassment / shame.	당황해서/수치심에 얼굴이 붉어지다.
+immaculate	티 하나 없이 깔끔한[깨끗한]	She always looks immaculate.	그녀는 언제나 더없이 깔끔해 보인다.
+hierarchy	(특히 사회나 조직 내의) 계급[계층]	the social/political hierarchy.	사회적/정치적 계층[계급].
+meddling	(쓸데없는) 간섭, 참견	He had no right to meddle in her affairs.	그가 그녀 일에 간섭할 권리는 없었다.
+uncanny	이상한, 묘한	I had an uncanny feeling I was being watched.	나는 누군가가 나를 지켜보고 있다는 묘한 느낌이 들었다.
+fatuous	어리석은, 얼빠진	a fatuous comment / grin.	어리석은 말/얼빠진 웃음.
+inhibition	(생각・감정 표현의) 억제, 어색함, 거리낌	The children were shy at first, but soon lost their inhibitions.	그 아이들이 처음에는 수줍어했지만 곧 어색함을 벗어던졌다.
+servitude	노예 상태	취역 중의 《.	a warship》 in commission.
+bluster	고함치다, 엄포를 놓다	‘I don't know what you're talking about,' he blustered.	“네가 무슨 말을 하는지 모르겠어.” 그가 고함쳤다.
+proverb	속담	He is punctual to a proverb.	그가 시간을 잘 지킨다는 것을 모르는 사람은 없다.
+reclaim	(분실하거나 빼앗긴 물건 등을) 되찾다[돌려 달라고 하다]	You'll have to go to the police station to reclaim your wallet.	당신 지갑을 되찾으려면 경찰서에 가야 할 것이다.
+moribund	소멸[절멸] 직전의		
+extraneous	(특정 상황이나 주제와) 관련 없는	We do not want any extraneous information on the page.	우리는 그 페이지에 관련 없는 정보는 어떤 것도 원하지 않는다.
+tangible	분명히 실재하는[보이는], 유형(有形)의	tangible benefits/improvements/results, etc.	분명히 실재하는 혜택/개선/결과 등.
+contemporary	동시대의	We have no contemporary account of the battle.	그 전투에 대한 동시대의 기록은 없다.
+decade	10[십]년(특히 1910년-1919년이나 1990년-1999년과 같은 기간을 가리킴)		
+horn	(양・소 등의) 뿔	I'm sure she doesn't want us horning in on her business.	그녀는 틀림없이 우리가 자기 일에 참견하는 것을 원하지 않을 거야.
+despondent	낙담한, 실의에 빠진	She was becoming increasingly despondent about the way things were going.	그녀는 사정이 돌아가는 것에 대해 점점 더 낙담하게 되었다.
+desolate	황량한, 적막한	a bleak and desolate landscape.	황폐하고 적막한 풍경.
+whitewash	(초크나 석회로 만든) 백색 도료		
+retrieve	(특히 제자리가 아닌 곳에 있는 것을) 되찾아오다[회수하다]	She bent to retrieve her comb from the floor.	그녀가 바닥에 떨어진 빗을 주우려고 몸을 숙였다.
+admonish	꾸짖다, 책망하다	She was admonished for chewing gum in class.	그녀는 수업 중에 껌을 씹다가 꾸지람을 들었다.
+imbecility	[U] 저능; 우둔함	They behaved like imbeciles.	그들은 얼간이같이 굴었다.
+fertile	비옥한, 기름진	a fertile region.	비옥한 지역.
+haggard	초췌한	그는 잠을 못 자서 얼굴이 까칠하다.	.
+facility	(생활의 편의를 위한) 시설[기관]	sports/leisure facilities.	스포츠/레저 시설.
+innocuous	악의 없는	It seemed a perfectly innocuous remark.	그것은 전혀 악의 없이 한 말 같았다.
+coalition	(둘 이상의 정당으로 구성된) 연립 정부, 연정	to form a coalition.	연립 정부를 구성하다.
+induce	설득하다, 유도하다	Nothing would induce me to take the job.	그 무엇으로 유도해도 나는 그 일을 맡지 않을 것이다.
+emphasize	(중요성을) 강조하다	His speech emphasized the importance of attracting industry to the town.	그의 연설은 그 소도시로 산업을 유치하는 일의 중요성을 강조했다.
+jack up	잭(자동차 타이어를 갈 때처럼 무거운 것을 들어올릴 때 쓰는 기구)	Every Jack has his Gill[Jill].	[속담] 짚신도 제짝이 있다.
+beef up	소[쇠]고기	roast/minced beef.	구운/다진 소고기.
+ablaze	불길에 휩싸인	The whole building was soon ablaze.	곧 건물 전체가 불길에 휩싸였다.
+accomplice	공범(자)	His wife accompanied him on the trip.	그 여행에는 그의 아내가 그와 동행했다.
+reserve	예약하다	I'd like to reserve a table for three for eight o'clock.	8시에 세 사람이 식사할 자리를 예약하고 싶어요.
+beset	괴롭히다	The team was beset by injury all season.	그 팀은 시즌 내내 부상에 시달렸다.
+founder	창립자, 설립자	the founder and president of the company.	그 회사의 창립자이자 회장.
+procrastinate	(해야 할 일을 보통 하기가 싫어서) 미루다[질질 끌다]	지체 없이.	without delay.
+condense	(기체가) 응결되다; 응결시키다	Steam condenses into water when it cools.	수증기는 식으면 응결되어 물이 된다.
+considerable	상당한, 많은	Damage to the building was considerable.	그 건물이 입은 손상이 상당했다.
+intrigue	강한 흥미[호기심]를 불러일으키다	You've really intrigued me—tell me more!.	자네 정말 호기심 동하게 만드는군. 더 얘기해 줘!.
+emulate	(흠모하는 대상을) 모방하다[따라 가다]	She hopes to emulate her sister's sporting achievements.	그녀는 언니의 운동 실력을 따라 갈 수 있기를 바란다.
+admittedly	인정하건대	Admittedly, it is rather expensive but you don't need to use much.	인정하건대, 이것이 좀 비싸긴 합니다만, 많이 쓰실 필요가 없어요.
+intent	강한 관심[흥미]을 보이는, 몰두[열중]하는	an intent gaze/look.	몰두한 시선/표정.
+cutlery	(식탁용) 날붙이류(나이프・포크・숟가락 등)		
+deplete	(남아 있는 것이 충분하지 않을 정도로) 대폭 감소시키다[격감시키다]	Food supplies were severely depleted.	식량 공급량이 심하게 격감되었다.
+eradicate	근절하다, 뿌리뽑다	Polio has been virtually eradicated in Brazil.	브라질에서 소아마비는 사실상 근절되었다.
+augment	늘리다, 증가시키다	수출을 늘리다.	.
+cooperate	협력[합동]하다	The two groups agreed to cooperate with each other.	그 두 그룹은 서로 협력하기로 합의했다.
+fabricate	(거짓 정보를) 날조하다[조작하다]	The evidence was totally fabricated.	그 증거는 완전히 조작된 것이었다.
+despotic	전제[독재]적인; 횡포한	an enlightened despot.	깨달음을 얻은[마음을 바꿔 먹은] 폭군.
+aftermath	(전쟁・사고 등의) 여파[후유증]	A lot of rebuilding took place in the aftermath of the war.	전쟁의 여파로 많은 재건축이 실시되었다.
+clement	온화한		
+cluster	(함께 자라거나 나타나는) 무리, (작은 열매의) 송이	a cluster of stars.	별 무리[성단].
+maladroit	솜씨[재치] 없는(특히 사람들을 짜증나게 하거나 감정 상하게 하는 경우에 대해 씀)		
+verdict	(배심원단의) 평결	Has the jury reached a verdict?.	배심원단이 평결을 내렸습니까?.
+robust	원기 왕성한, 팔팔한	She was almost 90, but still very robust.	그 분은 거의 아흔이 다 되셨지만 아직 아주 팔팔하셨다.
+disband	(조직을[이]) 해체[해산]하다	They set about disbanding the terrorist groups.	그들이 테러 단체들 해산에 들어갔다.
+excretion		배설 욕구를 느끼다.	.
+rudimentary	가장 기본[기초]적인	They were given only rudimentary training in the job.	그들은 그 직장에서 가장 기본적인 훈련만 받았다.
+progenitor	(사람・동식물의) 조상	He was the progenitor of a family of distinguished actors.	그는 뛰어난 배우 가문의 조상이었다.
+invincible	천하무적의, 아무도 꺾을[바꿀] 수 없는	The team seemed invincible.	그 팀은 천하무적으로 보였다.
+deft	날랜, 재빠른	deft hands/fingers/footwork.	날랜 손/손가락/발놀림.
+congruous			
+candor	[U] 공평무사, 허심 탄회; 솔직, 정직; [고어] 순백; [폐어] 순수성, 순결	a candid statement / interview.	솔직한 진술/인터뷰.
+haphazard	무계획적인, 되는 대로의	The books had been piled on the shelves in a haphazard fashion.	그 책들은 책장에 마구잡이로 쌓아 놓은 상태였다.
+inane	어리석은; 무의미한	an inane remark.	무의미한 말.
+dismal	음울한, 울적하게 하는	dismal conditions / surroundings / weather.	음울한 상황/환경/날씨.
+adamant	요지부동의, 단호한	Eva was adamant that she would not come.	에바는 요지부동으로 오지 않으려 했다.
+felicity	더할 나위없는 행복	She makes her meals with felicity.	그녀는 솜씨 있게 그녀의 음식을 만든다.
+affect	영향을 미치다	How will these changes affect us?.	이들 변화가 우리에게 어떤 영향을 미칠까?.
+impoverished	빈곤한	impoverished peasants.	빈곤한 소작농들.
+irreplaceable	(대단히 귀중하거나 특별하여) 그 무엇으로도 대체[대신]할 수 없는		
+aimlessly	목적 없이	My life seemed aimless.	내 삶이 방향을 잃은 것 같았다.
+stale	신선하지 않은, (만든 지) 오래된	I went stale after drinking so much beer.	나는 맥주를 그렇게 많이 마시고 컨디션이 나빠졌다.
+disrupt	방해하다, 지장을 주다	Demonstrators succeeded in disrupting the meeting.	시위자들이 그 회의를 방해하는 데 성공했다.
+esthetic	=aesthetic.	an aesthetic appreciation of the landscape.	풍경에 대한 심미적 감상.
+germane	(~와) 밀접한 관련이 있는	remarks that are germane to the discussion.	논의와 밀접한 관련이 있는 발언.
+belligerent	적대적인, 공격적인	a belligerent attitude.	공격적인 태도.
+officious	거들먹거리는, 위세를 부리는	a nasty officious little man.	기분 나쁘게 거들먹거리는 작은 남자.
+arbitrary	임의적인, 제멋대로인	The choice of players for the team seemed completely arbitrary.	그 팀의 선수 선발은 완전히 제멋대로인 것처럼 보였다.
+auspicious	상서로운	an auspicious start to the new school year.	상서로운 새 학년의 시작.
+involved	관여하는, 관련된, 연루된	to be/become/get involved in politics.	정치에 관여하다/관여하게 되다/관여하게 되다.
+enumerate	열거하다	단편적인 정보를 나열하다.	list fragments of information.
+dormant	휴면기의, 활동[성장]을 중단한	a dormant volcano.	휴화산.
+messy	지저분한, 엉망인	The house was always messy.	그 집은 항상 지저분했다.
+linguist	수개 국어에 능통한 사람; 언어에 능한 사람	She's an excellent linguist.	그녀는 여러 언어에 아주 능통하다.
+gullible	남을 잘 믿는, 잘 속아 넘어가는	우스갯소리를 곧이듣다.	take a joke seriously.
+exclude	제외[배제]하다	The cost of borrowing has been excluded from the inflation figures.	차용 비용은 그 인플레이션 수치에서 제외되었다.
+hypnosis	최면 (상태)	She only remembered details of the accident under hypnosis.	그녀는 최면 상태에서만 그 사건의 세부 내용을 기억해 냈다.
+antidote	해독제	There is no known antidote to the poison.	그 독약에는 알려진 해독제가 없다.
+spot	(작은) 점, 반점	Which has spots, the leopard or the tiger?.	반점이 있는 게 어느 거지, 표범인가 호랑이인가?.
+sober	술 취하지 않은	I promised him that I'd stay sober tonight.	내가 오늘 밤에는 술에 취하지 않기로 그와 약속을 했어.
+flair	(타고난) 재주[재능]	He has a flair for languages.	그는 언어에 재능이 있다.
+absurd	우스꽝스러운, 터무니없는	That uniform makes the guards look absurd.	저 제복 때문에 경비원들이 우스꽝스러워 보인다.
+nanimous			
+desultory	두서없는, 종잡을 수 없는	I wandered about in a desultory fashion.	나는 그저 되는 대로 이리저리 돌아다녔다.
+blanch	(충격으로 얼굴이) 핼쑥해지다	You will not blanch over your mistake, will you?.	넌 너의 잘못을 적당히 얼버무리지 않을 거야, 그렇지?.
+fable	우화	Aesop's Fables.	이솝 우화.
+sagacious	현명한	어려운 문제를 지혜롭게 해결하다.	.
+impartial	공정한	an impartial inquiry/observer.	공정한 조사/관찰자.
+giddy	어지러운, 아찔한	When I looked down from the top floor, I felt giddy.	맨 위층에서 내려다보니 눈앞이 아찔했다.
+dialect	방언, 사투리	the Yorkshire dialect.	요크셔 방언.
+placate	(화를) 달래다	a placating smile.	달래는 듯한 미소.
+staggering	(너무 엄청나서) 충격적인, 믿기 어려운	The injured woman staggered to her feet.	부상을 입은 그 여자가 비틀거리며 일어섰다.
+blemish	(피부 등의) 티, 흠	make-up to cover blemishes.	피부의 잡티를 감춰 주는 화장품.
+superficial	깊이 없는, 얄팍한	a superficial analysis.	깊이 없는 분석.
+susceptible	민감한	He's highly susceptible to flattery.	그는 아첨에 대단히 민감하다.
+generalize	일반화하다	It would be foolish to generalize from a single example.	한 가지 사례로 일반화를 하는 것은 어리석은 일이 될 것이다.
+commencement	시작, 개시	the commencement of the financial year.	회계 연도의 개시.
+pathetic	불쌍한, 애처로운	a pathetic and lonely old man.	불쌍하고 외로운 노인.
+ooze	(걸쭉한 액체가[를] 천천히) 흐르다[흘리다]	Blood oozed out of the wound.	부상 부위에서 피가 흘러 나왔다.
+prompt	즉각적인, 지체 없는	Prompt action was required as the fire spread.	불길이 번져 가자 즉각적인 조처가 필요했다.
+articulate	(생각・감정을) 분명히 표현하다[설명하다]	She struggled to articulate her thoughts.	그녀는 자기 생각을 분명히 표현하려고 애를 썼다.
+catchy	기억하기 쉬운	a catchy tune/slogan.	기억하기 쉬운 가락/슬로건.
+dodge	(몸을) 재빨리[휙] 움직이다[비키다/피하다]	He ran across the road, dodging the traffic.	그는 차들을 재빨리 피하며 뛰어서 길을 건너갔다.
+alternative	대안, 선택 가능한 것	We had no alternative but to fire Gibson.	우리는 깁슨을 해고할 밖에 다른 대안이 없었다.
+benevolent	자애로운	a benevolent smile / attitude.	자애로운 미소/태도.
+slovenly	(외모・행실이) 지저분한	He grew lazy and slovenly in his habits.	그는 버릇이 게으르고 지저분하게 들었다.
+incontrovertible	이론[반박]의 여지가 없는	incontrovertible evidence/proof.	이론[반박]의 여지가 없는 증거.
+audacious	대담한	an audacious decision.	대담한 결정.
+obstinate	고집 센, 완강한	He can be very obstinate when he wants to be!.	그는 자기가 원하면 아주 완강해질 수 있는 사람이야[고집을 부리려 들면 꺾기가 아주 힘들어]!.
+reaffirm	(무엇이 사실임을) 재차 확인[확언]하다		
+invigorating	기운 나게 하는;  상쾌한	The cold water invigorated him.	찬물에 씻고 나니 그는 기운이 났다.
+streamline	유선형으로 하다	The cars all have a new streamlined design.	그 자동차들은 모두 새로운 유선형 디자인으로 되어 있다.
+disgrace	망신, 수치, 불명예	Her behaviour has brought disgrace on her family.	그녀의 행동은 가족에게 수치를 안겨 주었다[가족을 망신시켰다].
+dwindle	(점점) 줄어들다	dwindling audiences.	점점 줄어들고 있는 관객.
+appreciate	진가를 알아보다[인정하다]	You can't really appreciate foreign literature in translation.	번역으로는 외국 문학의 참맛을 진정으로 느낄 수가 없다.
+verify	(진실인지・정확한지) 확인하다	We have no way of verifying his story.	우리는 그의 이야기를 확인할 길이 없다.
+correlate	(밀접한) 연관성[상관관계]이 있다	The figures do not seem to correlate.	그 수치들은 연관성이 없어 보인다.
+clog	막다; 막히다	The narrow streets were clogged with traffic.	좁은 도로가 차들로 꽉 막혀 있었다.
+hereditary	유전적인	a hereditary illness/disease/condition/problem.	유전병[유전성 질환].
+affable	상냥한, 사근사근한	사근사근하게 굴다.	act amiably.
+intricate	(여러 부분・내용으로 되어 있어) 복잡한	intricate patterns.	복잡한 무늬.
+cosmetic	화장품	the cosmetics industry.	화장품 산업.
+menace	위협적인[위험한] 존재	a new initiative aimed at beating the menace of illegal drugs.	불법 마약이라는 위협적인 존재의 퇴치를 겨냥한 새 발의안.
+discomfit	혼란스럽게[당황하게] 만들다		
+cordial	화기애애한, 다정한	a cordial atmosphere/meeting/relationship.	화기애애한 분위기/모임/다정한 관계.
+concoct	(특히 음식이나 음료를 이것저것 섞어) 만들다	The soup was concocted from up to a dozen different kinds of fish.	그 수프는 최고 열두 가지나 되는 여러 종류의 생선들을 섞어 만든 것이었다.
+desperate	자포자기한, 발악하는, 될 대로 되라는 식의	The prisoners grew increasingly desperate.	죄수들은 갈수록 점점 더 될 대로 되라는 식이 되어 갔다.
+dominate	(특히 불쾌한 방식으로) 지배[군림]하다	As a child he was dominated by his father.	그는 어렸을 때 아버지에게 지배를 당했다.
+homogeneous	동종[동질]의	a homogeneous group / mixture / population.	동질적 집단/혼합체/인구.
+abortive	무산된, 유산된, 수포로 돌아간	an abortive military coup.	무산된 군사 쿠데타.
+mutilate	(인체를 심하게) 훼손하다, (특히 팔・다리를 절단하여) 불구로 만들다	The body had been badly mutilated.	그 시신은 심하게 훼손되어 있었다.
+hammer out	(머리 부분이 쇠로 된) 망치[해머]	The decision is a hammer blow for the steel industry.	그 결정은 철강업에 강타를 가하는 격이다.
+predicament	곤경, 궁지	the club's financial predicament.	그 클럽의 재정적 곤경.
+conventional	관습[관례]적인; 극히 평범한[인습적인]	conventional behaviour/morality.	관례적인 행위/도덕.
+variety	여러 가지, 갖가지, 각양각색	There is a wide variety of patterns to choose from.	선택할 수 있는 무늬가 아주 각양각색이다.
+sanction	제재	Trade sanctions were imposed against any country that refused to sign the agreement.	어느 국가든 그 합의서에 서명을 거부하는 국가에 대해서는 무역 제재가 부과되었다.
+retrospect		In retrospect, I think that I was wrong.	돌이켜 생각해 보면 내가 틀렸던 것 같다.
+arboretum	수목원		
+misnomer	부적절한[부정확한] 명칭[단어]	‘Villa' was something of a misnomer; the place was no more than an old farmhouse.	‘빌라’는 부적절하다 할 수 있는 명칭이었다. 그곳은 낡은 농가에 지나지 않았으니까.
+liability	(~에 대한) 법적 책임	The company cannot accept liability for any damage caused by natural disasters.	본 회사에서는 천재지변으로 인한 손상에 대해서는 어떤 법적 책임도 질 수 없습니다.
+bout	한바탕, 한차례	a drinking bout.	한바탕 술판.
+disabled	장애를 가진	physically/mentally disabled.	신체/정신 장애가 있는.
+kitschy	 저속한, 저질의		
+adulterate	(음식이나 음료에) 불순물을 섞다	섞음질한.	mixed.
+ubiquitous	어디에나 있는, 아주 흔한	the ubiquitous bicycles of university towns.	대학 도시 어디에서나 아주 흔히 볼 수 있는 자전거들.
+grueling	녹초로 만드는; 엄한	a gruelling journey/schedule.	대단히 힘든 여정/일정.
+tranquility	평온	a tranquil scene.	고요한 광경.
+contaminate	오염시키다	The drinking water has become contaminated with lead.	그 식수는 납에 오염되었다.
+intrepid	용감무쌍한, 두려움을 모르는	an intrepid explorer.	용감무쌍한 탐험가.
+lavish	풍성한; 호화로운	lavish gifts / costumes / celebrations.	풍성한 선물/호화로운 복장/풍성한 축하 행사.
+arrest	체포하다	A man has been arrested in connection with the robbery.	그 강도 사건과 관련해서 한 남자가 체포되었다.
+replenish	(원래처럼) 다시 채우다, 보충하다	to replenish food and water supplies.	식품과 식수 비축 물자를 보충하다[다시 채워 놓다].
+fragile	부서지기[손상되기] 쉬운	fragile china / glass / bones.	깨지기 쉬운 도자기/유리/부러지기 쉬운 뼈.
+hectic	정신없이 바쁜, 빡빡한	a hectic schedule.	빡빡한 일정.
+breed	새끼를 낳다	Many animals breed only at certain times of the year.	많은 동물들이 일년 중에 특정한 시기에만 새끼를 낳는다.
+deride	조롱[조소]하다	His views were derided as old-fashioned.	그의 견해는 고루하다는 조소를 들었다.
+consecutive	연이은	She was absent for nine consecutive days.	그녀는 연이어 9일 동안 결석[결근] 중이었다.
+unwittingly	자신도 모르게, 부지불식간에	She had broken the law unwittingly, but still she had broken it.	그녀는 자신도 모르게 법을 어겼었다. 하지만 그래도 법을 어기기는 한 것이다.
+circumspect	신중한	신중을 기하다.	pay close attention (to).
+efface	지우다, 없애다	He wants to efface himself.	그는 표면에 나서지 않기를 원한다.
+retaliate	보복하다, 앙갚음하다	to retaliate against an attack.	공격에 대해 보복하다.
+mnemonic	(기억을 돕는) 연상 기호		
+descendant	자손, 후손, 후예	He was an O'Conor and a direct descendant of the last High King of Ireland.	그는 오코너 집안사람이었고, 아일랜드 마지막 하이킹의 직계 자손이었다.
+distraction	(주의) 집중을 방해하는 것; 머리를 식히게 해 주는 것	I find it hard to work at home because there are too many distractions.	나는 집에서는 집중을 방해하는 것들이 너무 많아서 일을 하기가 힘들다.
+dismiss	(고려할 가치가 없다고) 묵살[일축]하다	I think we can safely dismiss their objections.	나는 우리가 그들의 반대를 묵살해도 무방하다고 생각한다.
+consensus	의견 일치, 합의	There is a general consensus among teachers about the need for greater security in schools.	학교의 보안을 더 강화할 필요가 있다는 데 대해 교사들의 의견이 대체로 일치한다.
+surreptitious	은밀한, 슬쩍 하는	She sneaked a surreptitious glance at her watch.	그녀는 슬쩍 한번 시계를 훔쳐보았다.
+hush	쉿, 조용히 해[울지 마]	Hush now and try to sleep.	이제 쉿, 그만 얘기하고 자도록 해.
+flush	붉어지다, 상기되다	She flushed with anger.	그녀가 화가 나서 얼굴이 빨개졌다.
+emancipate	(법적・정치적・사회적 제약에서) 해방시키다	Slaves were not emancipated until 1863 in the United States.	미국에서 노예는 1863년에야 해방이 되었다.
+explicit	분명한, 명쾌한	He gave me very explicit directions on how to get there.	그는 나에게 거기에 가는 법을 아주 분명하게 알려 주었다.
+ennui	따분함, 권태감	그들은 권태기에 들어섰다.	.
+benefactor	(학교・자선단체 등의) 후원자	익명의 독지가가 20억 원을 기부했다.	.
+detest	몹시 싫어하다, 혐오하다	They detested each other on sight.	그들은 보자마자 서로를 혐오했다.
+divergent		The parallel lines appear to diverge.	그 평행선들은 분기하는 것처럼 보인다.
+subsidize	보조금을 주다	The housing projects are subsidized by the government.	그 주택 건설 프로젝트는 정부 보조금을 받는다.
+extortion	강요, 강탈, 강청; [법] (관리의) 직무상의 부당 취득, 재물 강요(죄) ((금전·유가물의))	The gang extorted money from over 30 local businesses.	그 갱단[깡패 집단]은 서른 군데가 넘는 지역 업체에서 돈을 갈취했다.
+immune	(특정 질병에) 면역성이 있는	Adults are often immune to German measles.	성인들은 흔히 풍진에 면역성이 있다.
+contemplate	(어떤 일의 가부나 방법에 대해) 고려하다[생각하다]	You're too young to be contemplating retirement.	당신은 은퇴를 고려하기에는 너무 젊어요.
+discord	불화, 다툼	marital/family discord.	부부/가족 불화.
+recall	기억해 내다, 상기하다	She could not recall his name.	그녀는 그의 이름이 기억나지 않았다.
+implement	시행하다	to implement changes/decisions/policies/reforms.	변화/결정/정책/개혁을 시행하다.
+conspicuous	눈에 잘 띄는, 튀는; 뚜렷한	Mary's red hair always made her conspicuous at school.	메리는 빨간 머리 때문에 학창 시절에 늘 남의 시선을 받았다.
+precarious	불안정한; 위태로운	He earned a precarious living as an artist.	그는 화가로서 불안정한 생활을 영위했다.
+freak	(…에) 광적으로 관심이 많은 사람	a health/fitness/jazz, etc. freak.	건강/몸매 관리/재즈 등에 광적으로 관심이 많은 사람.
+precise	정확한, 정밀한	precise details / instructions / measurements.	정확한 세부 내용/지시/정밀한 측정.
+acronym		&quot;Saint&quot;의 약자가 뭐죠?.	.
+vicious	잔인한, 포악한, 악랄한	a vicious attack.	잔인한 공격.
+trenchant	정통을 찌르는		
+forestall	미연에 방지하다	Try to anticipate what your child will do and forestall problems.	자녀가 무엇을 할 것인지를 예상하여 문제를 미연에 방지하도록 노력하다.
+venal	(돈에 쉽게 매수되는) 부패한	venal journalists.	부패한 기자들.
+deliberate	고의의, 의도[계획]적인	a deliberate act of vandalism.	고의적인 공공 기물 파손 행위.
+artificial	인공[인조]의	an artificial limb/flower/sweetener/fertilizer.	의지[의수족]/조화(造花)/인공 감미료/인조 비료.
+hybrid	(동식물의) 잡종	A mule is a hybrid of a male donkey and a female horse.	노새는 수당나귀와 암말의 잡종이다.
+inexorable	멈출[변경할] 수 없는, 거침없는	the inexorable rise of crime.	거침없이 계속되는 범죄 증가.
+term	용어, 말	a technical/legal/scientific, etc. term.	전문[특수]/법률/과학 용어 등.
+vanish	(갑자기・불가사의하게) 사라지다	The magician vanished in a puff of smoke.	그 마술사는 한 줄기 연기 속으로 사라졌다.
+delusive	기만적인, 현혹하는	the delusions of the mentally ill.	정신 질환자들의 망상.
+circumvent	(어려움이나 법 등을) 피하다[면하다]	They found a way of circumventing the law.	그들은 그 법을 회피할 방법을 찾아내었다.
+suppress	진압하다	The rebellion was brutally suppressed.	그 반란은 잔혹하게 진압당했다.
+rebellious	(규칙・일반 통념 등에 대해) 반항적인	rebellious teenagers.	반항적인 십대들.
+maturity	성숙함, 원숙함	He has maturity beyond his years.	그는 나이보다 성숙하다.
+exasperate	몹시 화나게[짜증나게] 하다	그의 잘난 척하는 꼴이 정말 티꺼웠다.	.
+obligatory	의무적인	It is obligatory for all employees to wear protective clothing.	모든 근로자들은 의무적으로 보호복을 입어야 한다.
+insatiable	채울[만족시킬] 수 없는; 만족할 줄 모르는	an insatiable appetite/curiosity/thirst.	채울 수 없는 식욕/호기심/갈증.
+inspect	(특히 모든 것이 제대로 되어 있는지 확인하기 위해) 점검[검사]하다	The teacher walked around inspecting their work.	선생님이 돌아다니시면서 그들의 과제를 검사했다.
+perspicuous	 명쾌한, 명료한		
+disoriented	[미] 혼란에 빠진; 방향 감각을 잃은		
+fidelity	충실함	fidelity to your principles.	자신의 원칙에 충실함.
+negation	(…의) 정반대; (존재에 대한) 부정(否定)	This political system was the negation of democracy.	이 정치 체제는 민주주의의 정반대였다.
+entail	수반하다	The job entails a lot of hard work.	그 자리에는 많은 힘든 일이 수반된다.
+retract	(전에 한 말을) 철회[취소]하다	He made a false confession which he later retracted.	그는 나중에 철회하게 되는 거짓 자백을 했다.
+horrid	진저리나는, 지독한	a horrid child.	진저리나는 아이.
+immortal	죽지 않는	The soul is immortal.	영혼은 죽지 않는다.
+drowsy	졸리는	The tablets may make you feel drowsy.	그 약은 사람을 졸리게 만들 수 있다.
+engender	(어떤 감정・상황을) 낳다[불러일으키다]	The issue engendered controversy.	그 쟁점은 논란을 낳았다.
+touchy	화를 잘 내는, 과민한	He's a little touchy about his weight.	그는 체중에 대해 좀 과민하다.
+vacant	비어 있는, 사람이 없는[안 사는]	vacant properties.	비어 있는 건물들.
+exceed	(특정한 수・양을) 넘다[초과하다/초월하다]	The price will not exceed £100.	가격이 100파운드를 넘지는 않을 것이다.
+agile	날렵한, 민첩한	기민하게 행동하다.	act quickly and smartly.
+flippant	경솔한, 건방진	a flippant answer/attitude.	경솔한 대답/태도.
+respect	존경(심), 경의	I have the greatest respect for your brother.	나는 당신 형님[오빠]을 가장 존경해요.
+arduous	몹시 힘든, 고된	an arduous journey across the Andes.	안데스 산맥을 넘어가는 고된 여정.
+inadequate	불충분한, 부적당한	inadequate supplies.	불충분한 보급품.
+hinder	저해[방해]하다, …을 못하게 하다	a political situation that hinders economic growth.	경제 성장을 저해하는 정치 상황.
+detain	(경찰서・교도소 ・병원 등에) 구금[억류]하다	One man has been detained for questioning.	한 남자가 심문을 받기 위해 구금되었다.
+internment	[U] 유치, 억류, 수용; 억류 기간	그는 중국에 억류되어 있다.	.
+austere	꾸밈없는, 소박한	her austere bedroom with its simple narrow bed.	소박한 좁은 침대가 놓인 그녀의 꾸밈없는 침실.
+conviction	유죄 선고[판결]	She has six previous convictions for theft.	그녀는 이미 6건의 절도 전과가 있다.
+inevitable	불가피한, 필연적인	It was an inevitable consequence of the decision.	그것은 그 결정의 필연적인 결과였다.
+abolish	(법률・제도・조직을) 폐지하다	This tax should be abolished.	이 세금은 폐지되어야 한다.
+occupation	직업	Please state your name, age and occupation below.	아래에 성명, 연령, 직업을 기입하세요.
+alleviate	완화하다	to alleviate suffering.	고통을 완화하다.
+imperturbable	쉽게 동요하지 않는; 차분한	침착하게.	calmly.
+copious	엄청난 (양의), 방대한	copious amounts of water.	엄청난 양의 물.
+devastate	(한 장소나 지역을) 완전히 파괴하다	The bomb devastated much of the old part of the city.	그 폭탄은 그 도시의 구시가지 대부분을 완전 폐허로 만들어 놓았다.
+engross	몰두하게 만들다	이익을 농단하다.	monopolize the profit.
+venomous	독이 있는	그는 표독스럽게 생겼다.	.
+jeopardy		be in jeopardy.	위험에 빠지다.
+apathetic	무관심한, 심드렁한	The illness made her apathetic and unwilling to meet people.	몸이 아프다 보니 그녀는 사람들을 만나는 게 관심도 없고 내키지도 않았다.
+nebulous	흐릿한, 모호한	a nebulous concept.	모호한 개념.
+stumble	발이 걸리다, 발을 헛디디다	The child stumbled and fell.	그 아이가 발을 헛디뎌 넘어졌다.
+discernible	보고 알 수 있는; 인식[식별]할 수 있는		
+smuggle	밀수하다, 밀반입[출]하다	They were caught smuggling diamonds into the country.	그들은 다이아몬드를 그 나라로 밀반입하다[몰래 들여오다] 잡혔다.
+exempt	(…이) 면제되는	The interest on the money is exempt from tax.	그 돈에 붙는 이자는 세금이 면제된다.
+relinquish	(특히 마지못해 소유권 등을) 포기하다[내주다]	He was forced to relinquish control of the company.	그는 할 수 없이 그 회사에 대한 지배권을 포기해야 했다.
+rampant	걷잡을 수 없는, 만연[횡행]하는	rampant inflation.	걷잡을 수 없는 인플레이션.
+recurring	되풀이하여 발생하는	The recurring decimal 3.999… is also described as 3.9 recurring.	순환 소수 3.999…는 3. 순환마디 9로 나타내기도 한다.
+composure	(마음의) 평정	to keep/lose/recover/regain your composure.	마음의 평정을 잃지 않다/잃다/되찾다/되찾다.
+insulated	절연[단열/방음] 처리가 된	insulated wires.	절연 처리가 되어 있는 전선.
+requisite	(어떤목적에)필요한	She lacks the requisite experience for the job.	그녀는 그 일자리에 필요한 경험이 부족하다.
+staple	주된, 주요한	Jeans are a staple part of everyone's wardrobe.	청[면]바지는 모든 사람들의 옷장에서 주된 품목이다.
+inconsistent	(진술 등이) 내용이 다른[모순되는]	The report is inconsistent with the financial statements.	그 보고서는 재무제표와 내용이 안 맞는다.
+gloat	(자신의 성공에) 흡족해 하다; (남의 실패를) 고소해 하다	She was still gloating over her rival's disappointment.	그녀는 아직도 경쟁자의 실의를 고소해 하고 있었다.
+anticipate	예상하다	We don't anticipate any major problems.	무슨 큰 문제가 있을 것으로는 예상되지는 않는다.
+taunt	놀리다, 비웃다, 조롱하다	The other kids continually taunted him about his size.	다른 아이들이 그의 체격을 두고 그를 계속 놀렸다.
+emerge	(어둠 속이나 숨어 있던 곳에서) 나오다[모습을 드러내다]	The swimmer emerged from the lake.	그 수영객이 호수에서 모습을 드러냈다.
+faulty	흠[결함]이 있는, 불완전한	Ask for a refund if the goods are faulty.	상품에 흠이 있으면 환불을 요청하세요.
+drudgery	힘들고 단조로운 일	리포트 쓰는 일은 고역이다.	.
+amend	(법 등을) 개정[수정]하다	He asked to see the amended version.	그는 수정본을 보여 달라고 요청했다.
+exhaustively	철저하게, 남김없이, 속속들이	exhaustive research/tests.	철저한 연구/검사.
+inadvertently	무심코, 우연히, 부주의로	We had inadvertently left without paying the bill.	우리가 무심코 계산을 하지 않고 떠났었다.
+pensive	(특히 슬픔・걱정 때문에) 깊은 생각[수심]에 잠긴, 수심 어린	a pensive mood.	수심 어린 분위기.
+greed	탐욕	His actions were motivated by greed.	그의 행동들은 탐욕이 동기가 되었다.
+posthumous	(어떤 사람) 사후(死後)의	a posthumous award for bravery.	사후 무공 훈장.
+salutary	(흔히 불쾌해 보이지만) 유익한, 효과가 좋은	a salutary lesson/experience/warning.	유익한 교훈/경험/도움이 되는 경고.
+ample	충분한	ample opportunity / evidence / space / proof.	충분한 기회/증거/공간/증거.
+habitable	(장소가 사람이) 주거할 수 있는	The house should be habitable by the new year.	신년까지는 그 집에 사람이 주거할 수 있게 해야 한다.
+exert	(권력・영향력을) 가하다[행사하다]	He exerted all his authority to make them accept the plan.	그는 그들이 그 계획을 받아들이도록 모든 권한을 행사했다.
+folly	판단력 부족; 어리석음; 어리석은 행동[생각]	an act of sheer folly.	순전히 판단력 부족이 낳은[어리석은] 행동.
+hallow	신성하게[깨끗하게] 하다		
+terse	(예의에 어긋날 정도로) 간결한[간단한]	a terse style.	간결한 문체.
+skeptical	의심 많은, 회의적인, 회의를 나타내는, 회의론자 같은; 신용하지 않는	be skeptical about[of].	…을 의심하다.
+dose	(약의) 복용량[투여량]	a high/low/lethal dose.	다량의/소량의 복용[투여]량/치사량.
+adduce	(증거・이유 등을) 제시하다	Several factors have been adduced to explain the fall in the birth rate.	출산율 하락을 설명하기 위해 여러 가지 요인들이 제시되어 왔다.
+gist	(말・글・대화의) 요지[골자]	to get the gist of an argument.	주장의 요지를 이해하다.
+roam	(이리저리) 돌아다니다, 배회[방랑]하다	The sheep are allowed to roam freely on this land.	이 땅 위에서는 양들이 마음대로 돌아다니도록 내버려둔다.
+console	위로하다, 위안을 주다	Nothing could console him when his wife died.	아내가 죽었을 때 그에게는 그 무엇도 위로가 되지 않았다.
+deficiency	(필수적인 것의) 결핍[부족](증)	Vitamin deficiency in the diet can cause illness.	(늘 섭취하는) 음식에 비타민이 부족하면 병을 유발할 수도 있다.
+estrangement	(부부간의) 별거 (기간); (관계의) 소원	a period of estrangement from his wife.	그와 아내와의 한동안의 별거.
+alter	변하다, 달라지다; 바꾸다, 고치다	Prices did not alter significantly during 2004.	2004년에는 물가가 큰 변동이 없었다.
+bustle	바삐 움직이다, 서두르다	She bustled around in the kitchen.	그녀는 부엌에서 바삐 움직였다.
+feeble	아주 약한	a feeble old man.	기력이 없는 노인.
+jot	(부정문을 강조하여) 조금도 …아닌	There's not a jot of truth in what he says.	그가 하는 말에 진실이라곤 조금도 없다.
+rip off	(갑자기・거칠게) 찢다[찢어지다]	I ripped my jeans on the fence.	내가 울타리에 걸려 청바지가 찢어졌다.
+trait	(성격상의) 특성	personality traits.	성격적 특성.
+colossal	거대한, 엄청난	a colossal statue.	거대한 조각상.
+spell	(어떤 단어의) 철자를 말하다[쓰다]	How do you spell your surname?.	당신의 성은 철자를 어떻게 쓰나요[철자가 어떻게 되나요]?.
+dispose	(특정한 방식・위치에 물건이나 사람을) 배치하다	to have a cheerful disposition.	성격이 쾌활하다.
+misgiving	의혹; 불안감	I had grave misgivings about making the trip.	나는 그 여행을 하는 데 대해 예사롭지 않은 불안감이 들었다.
+deduct	(돈・점수 등을) 공제하다[제하다/감하다]	The cost of your uniform will be deducted from your wages.	유니폼 값은 당신 급여에서 공제될 거예요.
+squalid	지저분한, 불결한	squalid housing.	지저분한 주택.
+meager	메마른	a meagre diet of bread and water.	빵과 물로 된 빈약한 식사.
+corrupt	부패한, 타락한	a corrupt regime.	부패 정권.
+abysmal	최악의, 최저의	Ahead of them was a gaping abyss.	그들 앞에 깊은 구렁텅이가 아가리를 떡 벌리고 있었다.
+magnitude	(엄청난) 규모[중요도]	We did not realize the magnitude of the problem.	우리는 그 문제의 규모[중요도]를 깨닫지 못했다.
+incumbent	(공적인 직위의) 재임자	the present incumbent of the White House.	현 백악관의 주인(인 대통령).
+plight	역경, 곤경	the plight of the homeless.	노숙자들[집 없는 사람들]의 역경.
+plausible	타당한 것 같은, 이치에 맞는, 그럴듯한	Her story sounded perfectly plausible.	그녀의 이야기는 전적으로 타당해 보였다.
+implacable	확고한, 바꿀 수 없는	implacable hatred.	결코 누그러지지 않을 증오.
+vagary	(날씨 등의) 예측 불허의 변화[변동]		
+reverse	(정반대로) 뒤바꾸다, 반전[역전]시키다	to reverse a procedure / process / trend.	절차/과정/흐름을 뒤바꾸다.
+waive	(권리 등을) 포기하다	He does not intend to relinquish power.	
+instill		( instill+[목]+[전]+[명] ) instill ideas into a person's mind.	…에게 사상을 서서히 주입시키다.
+falter	불안정해지다, 흔들리다	The economy shows no signs of faltering.	경제가 흔들리고 있다는 조짐은 없다.
+afford	(…을 살・할・금전적・시간적) 여유[형편]가 되다	Can we afford a new car?.	우리가 새 차를 살 여유가 돼요?.
+covetous	탐내는, 갈망하는	He had long coveted the chance to work with a famous musician.	그는 유명 음악인과 함께 작업할 수 있는 기회를 오랫동안 갈망하던 참이었다.
+threshold	문지방	She stood hesitating on the threshold.	그녀는 문지방에서 머뭇거리며 서 있었다.
+slack	느슨한, (느슨하게) 늘어진[처진]	She was staring into space, her mouth slack.	그녀는 입을 헤 벌린 채 허공을 응시하고 있었다.
+disregard	무시[묵살]하다	The board completely disregarded my recommendations.	위원회가 내 제안을 완전히 묵살했다.
+denounce	맹렬히 비난하다	She publicly denounced the government's handling of the crisis.	그녀는 정부의 위기관리를 공개적으로 맹렬히 비난했다.
+attractive	(특히 성적으로) 매력적인	an attractive woman.	매력적인 여자.
+refute	논박[반박]하다	to refute an argument/a theory, etc.	주장/이론 등을 논박하다.
+allot	(시간・돈・업무 등을) 할당[배당]하다	I completed the test within the time allotted.	나는 할당된 시간 내에 그 테스트를 완료했다.
+woo	지지를 호소하다, (지지를 얻으려고) 구애하다	Voters are being wooed with promises of lower taxes.	유권자들은 더 낮은 세금을 약속한다는 구애를 받고 있다.
+acute	격심한, 극심한	There is an acute shortage of water.	물 부족이 극심하다.
+impeccable	흠 잡을 데 없는	impeccable manners/taste.	흠 잡을 데 없는 태도/취향.
+illustrious	저명한; 걸출한	The composer was one of many illustrious visitors to the town.	그 작곡가는 그 소도시를 찾은 많은 저명한 방문객들 중 한 명이었다.
+harassing	괴롭히는, 귀찮게 구는	He has complained of being harassed by the police.	그는 경찰로부터 괴롭힘을 당하고 있다고 호소해 왔다.
+prejudice	편견	a victim of racial prejudice.	인종 편견의 희생자.
+contract	계약[약정](서)	to enter into/make/sign a contract with the supplier.	공급자와 계약에 들어가다/계약을 하다/계약서에 서명하다.
+accumulate	(서서히) 모으다, 축적하다	I seem to have accumulated a lot of books.	내가 책을 많이 모은 것 같다.
+enmesh	(헤어나기 힘든 곤경에) 얽어 넣다[걸려들게 하다]	All too often they become enmeshed in deadening routines.	
+perjury	위증죄	She was sentenced to two years in jail for committing subornation of perjury.	그녀는 위증 교사 죄로 2년간 복역하라는 선고를 받았다.
+abandon	(특히 돌볼 책임이 있는 사람을) 버리다[떠나다/유기하다]	The baby had been abandoned by its mother.	그 아기는 엄마에게 버림을 받은 것이었다.
+accidental	우연한, 돌발적인	a verdict of accidental death.	사고사라는 평결.
+fugitive	도망자, 탈주자	a fugitive from justice.	법망을 피해 다니는 사람.
+remit	소관	a remit to report on medical services.	의료 서비스에 대해 보고하는 소관.
+degrade	비하[모멸]하다	This poster is offensive and degrades women.	이 포스터는 저속하고 여성을 비하한다.
+frill	(옷・커튼 등의) 주름장식	a white blouse with frills at the cuffs.	소매에 주름장식이 있는 흰색 블라우스.
+indifferent	무관심한	The government cannot afford to be indifferent to public opinion.	정부로서는 여론에 무관심할 수가 없다.
+istorted		[형용사].	
+remote	외진, 외딴	a remote beach.	외진 해변.
+insincere	진실되지 못한	an insincere smile.	가식적인 미소.
+assert	(사실임을 강하게) 주장하다	She continued to assert that she was innocent.	그녀는 계속해서 자기가 무죄라고 주장했다.
+crude	대충의, 대강의	In crude terms, the causes of mental illness seem to be of three main kinds.	거칠게 말해서, 정신 질환의 원인은 세 가지 주된 유형으로 이뤄지는 것 같다.
+skim	(액체 위에 뜬 기름기 등을) 걷어 내다	Skim the scum off the jam and let it cool.	잼에서 더껑이를 걷어 내고 식게 놔 두어라.
+impromptu	(사전 준비 없이) 즉흥적으로[즉석에서] 한	an impromptu speech.	즉흥 연설.
+candid	솔직한	a candid statement / interview.	솔직한 진술/인터뷰.
+pivotal	중심(축)이 되는	a pivotal role in European affairs.	유럽 문제들에서 중심되는 역할.
+accessible	접근[입장/이용] 가능한	The remote desert area is accessible only by helicopter.	그 외딴 사막 지역은 헬리콥터로만 갈 수 있다.
+psyche	마음, 정신, 심령	the human psyche.	인간의 마음[심령].
+placid	(쉽게 동요하거나 짜증내지 않고) 차분한[얌전한]	a placid baby / horse.	얌전한 아기/말.
+latent	잠재하는, 잠복해 있는	latent disease.	잠복 중인 병.
+embellish	장식하다, 꾸미다	그 이야기는 조금만 윤색하면 훌륭한 소설이 될 것이다.	.
+settle	(논쟁 등을) 해결하다[끝내다], 합의를 보다	to settle a dispute/an argument/a matter.	분쟁/언쟁/문제를 해결하다.
+overhaul	(기계・시스템의) 점검[정비]	a complete/major overhaul.	완전한/대규모 점검.
+obscure	잘 알려져 있지 않은, 무명의	an obscure German poet.	독일의 무명 시인.
+abruptly	갑자기(suddenly), 불쑥, 뜻밖에; 퉁명스럽게, 무뚝뚝하게	an abrupt change/halt/departure.	갑작스런 변화/돌연한 중단/갑작스런 출발.
+extrovert	외향적인 사람		
+deceptive	기만적인, 현혹하는	a deceptive advertisement.	기만적인 광고.
+valiant	용맹한; 단호한	valiant warriors.	용맹한 전사들.
+culprit	범인	The police quickly identified the real culprits.	경찰이 즉각 진범을 밝혀냈다.
+divulge	(비밀을) 알려주다[누설하다]	Police refused to divulge the identity of the suspect.	경찰이 용의자의 신원을 알려주기를 거부했다.
+affiliation	(개인의 정치・종교적) 소속[가입]	He was arrested because of his political affiliation.	그는 정치 단체 가입 문제로 체포되었다.
+formidable	가공할, 어마어마한	In debate he was a formidable opponent.	토론 때 그는 엄청난 상대였다.
+depredation	약탈	강탈당하다.	be robbed of.
+humble	겸손한	Be humble enough to learn from your mistakes.	자신의 실수에서 겸손하게 배워라.
+irreparable	회복할[바로잡을] 수 없는	to cause irreparable damage/harm to your health.	건강에 회복할 수 없는 손상/해를 입히다.
+isolate	격리하다, 고립시키다	Patients with the disease should be isolated.	이 병에 걸린 환자들은 격리시켜야 한다.
+designate	지정[지적]하다	This area has been designated (as) a National Park.	이 지역은 국립공원으로 지정된 곳이다.
+bargain	(정상가보다) 싸게 사는 물건	I picked up a few good bargains in the sale.	나는 그 세일 때 좋은 물건을 몇 가지 싸게 샀다.
+ephemeral	수명이 짧은, 단명하는		
+segregate	(사람들을 인종・종교・성별에 따라) 분리[차별]하다	a culture in which women are segregated from men.	여자들이 남자들과 차별받는 문화.
+improbable	사실[있을 것] 같지 않은	an improbable story.	사실 같지 않은 이야기.
+sheer	(크기・정도・양을 강조하여) 순전한	The area is under threat from the sheer number of tourists using it.	그 지역은 순전히 그곳을 이용하는 관광객 수만으로도 위협을 받고 있다.
+sedative	진정제	진정제를 복용하다.	take a sedative.
+paramount	다른 무엇보다[가장] 중요한	This matter is of paramount importance.	이 문제가 다른 무엇보다 중요하다.
+metamorphosis	탈바꿈, 변형, 변태	the metamorphosis of a caterpillar into a butterfly.	애벌레가 나비가 되는 탈바꿈.
+sojourn	체류	불법체류자.	an illegal alien[immigrant].
+prudent	신중한	a prudent businessman.	신중한 사업가.
+shrewd	상황 판단이 빠른	a shrewd businessman.	상황 판단이 빠른 사업가.
+equivocal	모호한	She gave an equivocal answer, typical of a politician.	그녀는 정치인 특유의 모호한 답변을 했다.
+subtle	미묘한, 감지하기 힘든	subtle colours/flavours/smells, etc.	감지하기 힘든 색깔/향/냄새 등.
+deadlock	(협상의) 교착 상태	European agriculture ministers failed to break the deadlock over farm subsidies.	유럽 국가들의 농림부 장관들이 농업 보조금을 둘러싼 교착 상태를 타개하지 못했다.
+effect	영향; 결과, 효과	the effect of heat on metal.	열이 금속에 미치는 영향.
+inordinate	과도한, 지나친		
+pretend	…인 척하다[것처럼 굴다], 가식적으로 행동하다	I'm tired of having to pretend all the time.	나는 언제나 가식적으로 행동해야 하는 것에 질렸다.
+dilute	희석하다, 묽게 하다	The paint can be diluted with water to make a lighter shade.	더 옅은 색조를 내려면 페인트에 물을 섞어 희석하면 된다.
+donate	(특히 자선단체에) 기부[기증]하다	He donated thousands of pounds to charity.	그는 자선 단체에 수천 파운드를 기부했다.
+dismay	(충격을 받은 뒤의) 실망, 경악	She could not hide her dismay at the result.	그녀는 그 결과에 실망[경악]을 감추지 못했다.
+periphery	(어떤 범위의) 주변	industrial development on the periphery of the town.	그 소도시 주변부의 산업 개발.
+blast	폭발	a bomb blast.	폭탄 폭발.
+enhance	(좋은 점・가치・지위를) 높이다[향상시키다]	This is an opportunity to enhance the reputation of the company.	이것은 회사의 명성을 높일 기회입니다.
+dent	(단단한 표면을 세게 쳐서) 움푹 들어가게 만들다[찌그러뜨리다]	The back of the car was badly dented in the collision.	그 충돌로 승용차 뒷부분이 심하게 찌그러졌다.
+endow	(학교 등의 기관에 많은 돈을) 기부하다	She had endowed Marcus with the qualities she wanted him to possess.	그녀는 마르쿠스가 그녀가 원하는 자질들을 지니고 있다고 믿었었다.
+testify	(특히 법정에서) 증언[진술]하다	She refused to testify against her husband.	그녀는 남편에게 불리한 증언을 하기를 거부했다.
+evade	(어떤 일이나 사람을) 피하다[모면하다]	For two weeks they evaded the press.	그들은 2주 동안 언론을 피했다.
+enigma	수수께끼 (같은 사람/것/일)		
+hideous	흉측한, 흉물스러운, 끔찍한	a hideous crime.	끔찍한 범죄.
+tacit	암묵적인, 무언의	tacit approval/support/knowledge.	암묵적인 찬성/지지/지식.
+clandestine	비밀리에 하는, 은밀한	a clandestine meeting/relationship.	비밀회의/은밀한 관계.
+galvanize	충격 요법을 쓰다	The urgency of his voice galvanized them into action.	그의 목소리에 담긴 다급함에 화들짝 놀라 그들이 행동에 나섰다.
+conscript	징집[징병]하다	He was conscripted into the army in 1939.	그는 1939년에 육군에 징집되었다.
+unobtrusive	불필요하게 관심을 끌지 않는, 지나치게 야단스럽지 않은	The service at the hotel is efficient and unobtrusive.	그 호텔의 서비스는 효율적이고 지나치게 야단스럽지 않다.
+arid	매우 건조한	arid and semi-arid deserts.	건조 및 반건조 사막 지역.
+luminous	어둠에서 빛나는, 야광의; 빛을 발하는	luminous paint.	야광 페인트.
+delineate	(상세하게) 기술하다[그리다/설명하다]	The ship's route is clearly delineated on the map.	그 배의 항로가 지도에 분명히 그려져 있다.
+mundane	재미없는, 일상적인	a mundane task/job.	재미없는 일/직장.
+turbulent	격동의, 격변의	a short and turbulent career in politics.	짧고 격동적인 정치 경력.
+decipher	판독[해독]하다	to decipher a code.	암호를 해독하다.
+notorious	악명 높은	a notorious criminal.	악명 높은 범죄자.
+earmark	(특정 목적용으로) 배정[결정/예정]하다	The factory has been earmarked for closure.	그 공장은 폐쇄가 결정되었다.
+ecology	생태(계); 생태학	plant/animal/human ecology.	식물/동물/인간의 생태.
+altruistic		이타적인 마음을 가지다.	have altruistic mind.
+attenuate	약화시키다, 희석시키다	The drug attenuates the effects of the virus.	그 약물은 바이러스의 영향을 약화시킨다.
+blur	흐릿한 형체	His arm was a rapid blur of movement as he struck.	그는 팔이 제대로 안 보일 정도로 빠르게 두들겼다.
+ostensible	(실제로는 그렇지 않겠지만) 표면적으로는	The ostensible reason for his absence was illness.	그가 불참한 표면적인 이유는 병이었다.
+sinister	사악한, 해로운; 불길한	There was something cold and sinister about him.	그에게는 차갑고 사악한 뭔가가 있었다.
+longevity	장수; 오래 지속됨	We wish you both health and longevity.	(저희는) 두 분 다 건강하게 장수하시길 바랍니다.
+becoming	어울리는	It was becoming more and more difficult to live on his salary.	그의 급여만 가지고 살기가 점점 더 힘들어지고 있었다.
+tactile	촉각[촉감]의; 촉각을 이용한	He's a very tactile man.	그는 사람들과의 접촉을 아주 좋아하는 남자이다.
+rupture	(인체 내부 장기의) 파열	the rupture of a blood vessel.	혈관 파열.
+digressive	본론을 떠난, 지엽적인		
+ins and outs		Height: 6ft 2in.	높이: 6피트 2인치.
+fastidious	세심한, 꼼꼼한	Everything was planned in fastidious detail.	모든 것이 세부적인 것까지 세심히 계획되었다.
+onset	(특히 불쾌한 일의) 시작	the onset of disease / old age / winter.	질병/노년/겨울의 시작.
+versatile	다재다능한	He's a versatile actor who has played a wide variety of parts.	그는 대단히 다양한 역할을 해 온 다재다능한 배우이다.
+marginal	미미한, 중요하지 않은	a marginal improvement in weather conditions.	별로 나아진 게 없는 기상 상태.
+irrigate	(땅에) 물을 대다, 관개하다	irrigated land / crops.	관개수를 대는 땅/관개수로 농사를 지은 작물.
+abscond	(허가 없이 떠날 수 없는 장소를) 무단이탈하다, 종적을 감추다	그녀는 갑자기 잠적해 버렸다.	She suddenly disappeared.
+proliferation	급증, 확산	attempts to prevent cancer cell proliferation.	암 세포 확산을 막기 위한 시도.
+morbid	(특히 질병・죽음에 대한 관심이) 병적인[소름끼치는]	He had a morbid fascination with blood.	그는 병적으로 피에 매혹을 느꼈다.
+aspire	열망[염원]하다	She aspired to a scientific career.	그녀는 과학계로 진출하기를 열망했다.
+grim	(보기나 듣기에 아주) 엄숙한[단호한]	a grim face/look/smile.	엄숙한 얼굴/표정/미소.
+pandemonium	대혼란	Pandemonium broke out when the news was announced.	그 소식이 발표되자 대혼란이 벌어졌다.
+agitate	(특히 법적・사회적 사항 등의 변경을 강력히) 주장하다[요구하다]	political groups agitating for social change.	사회 변화를 주장하는 정치 단체들.
+forage	먹이를 찾다	여물을 주다.	feed fodder to.
+insight	통찰력	a writer of great insight.	대단한 통찰력을 지닌 작가.
+paralysis	마비	paralysis of both legs.	양 다리 마비.
+disperse	(이리저리) 흩어지다, 해산하다; 해산시키다	The fog began to disperse.	안개가 흩어지기 시작했다.
+keen	간절히 …하고 싶은, …을 열망하는	John was very keen to help.	존은 정말 간절히 돕고 싶었다.
+antipathy	(강한) 반감	personal/mutual antipathy.	개인적인/상호간의 반감.
+disclaim	(무엇에 대해 모르거나 책임이 없다고) 말하다, (책임 등을) 부인하다	She disclaimed any knowledge of her husband's whereabouts.	그녀는 남편의 행방에 대해 전혀 아는 바가 없다고 말했다.
+garrulous	수다스러운, 말이 많은	그는 술을 마시면 수다스러워진다.	Alcohol makes him talkative.
+sap	수액(樹液)	Maple syrup is made from sap extracted from the sugar maple tree.	단풍 당밀은 사탕단풍나무에서 추출한 수액으로 만든다.
+odorous	냄새가 나는	odorous gases.	냄새가 나는 기체들.
+anonymous	익명인	an anonymous donor.	익명의 기증자.
+exponent	(사상・학설 등의) 주창자	She was a leading exponent of free trade during her political career.	그녀는 정치 활동을 할 때 자유 무역의 선도적인 주창자였다.
+languid	(움직임이) 힘없는[느릿느릿한]; 나른한	a languid wave of the hand.	손을 힘없이 흔듦.
+crooked	비뚤어진, 구부러진	a crooked nose / smile.	비뚤어진 코/뒤틀린 미소.
+abstract	추상적인	abstract knowledge/principles.	추상적인 지식/원칙들.
+classification	분류	a style of music that defies classification.	분류가 안 되는 음악 양식.
+constructive	건설적인	constructive criticism/suggestions/advice.	건설적인 비판/제안/충고.
+conduct	(특정한 활동을) 하다	to conduct an experiment/an inquiry/a survey.	실험/(공식적인) 조사/(실태) 조사를 하다.
+abstain	(투표에서) 기권하다	Ten people voted in favour, five against and two abstained.	10명이 찬성, 5명이 반대, 2명이 기권을 했다.
+malnourished	영양실조의		
+incidence	(사건 등의) 발생 정도[영향 범위]	an area with a high incidence of crime.	범죄 발생률이 높은 지역.
+disdain	업신여김, 무시	to treat sb with disdain.	…를 업신여기다[무시하다].
+aviation	항공(술)	civil/military aviation.	민간/군사 항공.
+avert	방지하다, 피하다	A disaster was narrowly averted.	재난을 가까스로 방지했다.
+gelatinous	젤리 같은	a gelatinous substance.	젤리 같은 물질.
+fascinate	마음을 사로잡다, 매혹[매료]하다	China has always fascinated me.	중국은 항상 내 마음을 사로잡아 왔다.
+amalgamate	합병[연합]하다[시키다]	The company has now amalgamated with another local firm.	그 회사는 이제 지역의 다른 회사와 합병되었다.
+ratify	비준[재가]하다	The treaty was ratified by all the member states.	그 조약은 모든 회원국들의 비준을 받았다.
+malign	(공개적으로) 비방[중상]하다	She feels she has been much maligned by the press.	그녀는 신문들로부터 많은 비방을 받아 왔다고 생각한다.
+tarnish	(금속 등이 광택을 잃고) 흐려지다[변색되다]; 흐리게 하다, 변색시키다	The mirrors had tarnished with age.	그 거울들은 오래되어서 부옇게 흐려져 있었다.
+preposterous	말도 안 되는, 터무니없는, 가당찮은	These claims are absolutely preposterous!.	이들 주장은 도저히 말도 안 돼요!.
+invalid	(법적・공식적으로) 효력 없는[무효한]	The treaty was declared invalid because it had not been ratified.	그 조약은 비준을 받지 않았으므로 무효라고 선언되었다.
+cite	(이유・예를) 들다[끌어 대다]	He cited his heavy workload as the reason for his breakdown.	그는 자기가 신경 쇠약에 걸린 이유로 과중한 업무량을 들었다.
+expediency	[UC] 편의, 형편 좋음; 방편, 편리한 방법; [윤리] 편의주의; (악착같은) 사리(私利) 추구	편법을 쓰다.	adopt[resort to] an expedient.
+unkempt	헝클어진, 단정하지 못한	greasy, unkempt hair.	기름기투성이의 헝클어진 머리카락.
+speculate	추측[짐작]하다	We all speculated about the reasons for her resignation.	우리는 모두 그녀의 사직 이유를 짐작했다.
+disseminate	(정보・지식 등을) 퍼뜨리다[전파하다]	Their findings have been widely disseminated.	그들이 발견한 결과는 널리 전파되었다.
+scant	거의[별로] 없는, 부족한	I paid scant attention to what she was saying.	나는 그녀가 하는 말에 거의 신경을 쓰지 않았다.
+intermediate	(두 가지 장소・사물・상태 등의) 중간의	an intermediate stage/step in a process.	어떤 과정의 중간 단계.
+substantial	(양・가치・중요성이) 상당한	He ate a substantial breakfast.	그는 아침밥을 상당히 먹었다.
+conceal	감추다, 숨기다	The paintings were concealed beneath a thick layer of plaster.	그 그림들은 두껍게 바른 회반죽 아래 감춰져 있었다.
+literacy	글을 읽고 쓸 줄 아는 능력	a campaign to promote adult literacy.	성인의 문맹률 낮추기 운동.
+furious	몹시 화가 난	She was absolutely furious at having been deceived.	그녀는 그동안 속아 온 것에 대해 그야말로 길길이 뛰었다.
+mutable	변할 수 있는; 잘 변하는		
+concede	(무엇이 옳거나 논리적임을) 인정하다[수긍하다]	‘Not bad,' she conceded grudgingly.	“나쁘진 않네.” 그녀가 마지못해 수긍했다.
+grudge	원한, 유감	I bear him no grudge.	난 그에게 아무 유감없다.
+prospect	(어떤 일이 있을) 가망[가능성]	There is no immediate prospect of peace.	즉시 평화가 찾아올 가망은 없다.
+portable	휴대[이동]가 쉬운, 휴대용의	a portable TV.	휴대용 TV.
+impute		( impute +[목]+[전]+[명] ) The police  impute  the accident to the bus driver's carelessness.	경찰은 사고의 원인을 버스 운전사의 부주의로 돌리고 있다.
+kidnap	납치[유괴]하다	Two businessmen have been kidnapped by terrorists.	두 명의 사업가가 테러범들에게 납치되었다.
+innovation	혁신, 쇄신	an age of technological innovation.	기술 혁신 시대.
+auditory	청각의	auditory stimuli.	청각적 자극.
+turmoil	혼란, 소란	emotional/mental/political turmoil.	정서적/정신적/정치적 혼란.
+appropriate	적절한	an appropriate response / measure / method.	적절한 반응/조치/방법.
+ironic	반어적인, 비꼬는	an ironic comment.	반어적인 논평.
+complicity	(범행) 공모	to be guilty of complicity in the murder.	살인공모죄를 범했다.
+impervious	…에 영향받지[휘둘리지] 않는	impervious to criticism / pain.	비판/고통에 휘둘리지 않는.
+hamper	방해하다	A heavy snowfall hamper ed their progress.	폭설이 그들의 전진을 방해했다.
+imply	(감정・생각을) 넌지시 나타내다[비치다], 은연중에 풍기다	Are you implying (that) I am wrong?.	지금 제가 틀렸다는 뜻인가요?.
+elastic	(탄력이 있도록 고무 물질을 넣은) 고무 밴드[테이프/천 등]	This skirt needs some new elastic in the waist.	이 치마는 허리의 고무 부분을 새로 해야 한다.
+exhilarate	아주 기쁘게[생기 나게/신나게] 만들다	Speed had always exhilarated him.	속도는 항상 그를 신나게 만들었다.
+embark	(배에) 승선하다[승선시키다]	We stood on the pier and watched as they embarked.	우리는 부두에 서서 그들이 승선하는 것을 지켜보았다.
+defunct	(지금은) 현존하지[행해지지/사용되지] 않는		
+disparage	폄하하다	I don't mean to disparage your achievements.	당신의 업적을 폄하할 뜻은 없습니다.
+corpulent	뚱뚱한(fat이라는 단어를 피하기 위해 씀)	몸집이 비대하다.	have a fat body.
+enkindle	 타오르게 하다(kindle)		
+hostile	적대적인	The speaker got a hostile reception from the audience.	그 연사는 청중들에게서 적대적인 반응을 받았다.
+subliminal	알지 못하는 사이에[부지불식간에] 영향을 미치는	subliminal advertising.	서브리미널 광고(부지불식간에 영향을 미치는 광고).
+mandatory	법에 정해진, 의무적인	It is mandatory for blood banks to test all donated blood for the virus.	혈액은행들은 법에 정해진 대로 모든 헌혈된 혈액에 대해 그 바이러스를 검사해야 한다.
+far	멀리	a concert of music from near and far.	도처에서 청중들이 몰려든 음악회.
+tribunal	(특별한 문제를 다루는) 재판소, 법원, 조사[심사] 위원회	She took her case to a tribunal.	그녀는 자신의 문제를 조사 위원회에 위촉했다.
+coincide	동시에 일어나다	It's a pity our trips to New York don't coincide.	우리의 뉴욕 여행이 같은 때가 아니라서 유감이에요.
+predicate		술어로 쓰이다.	be used predicatively.
+intertwine	뒤얽히다, 뒤얽다, 엮다, 엮이다	a necklace of rubies intertwined with pearls.	루비에 진주를 엮어 만든 목걸이.
+lethal	치명적인(죽음을 초래할 정도의)	a lethal dose of poison.	치사량의 독극물.
+archipelago	다도해; 군도	인도네시아는 군도 국가다.	.
+gratification	만족감[희열](을 주는 것)	sexual gratification.	성적 희열.
+revulsion	혐오감, 역겨움, (혐오감을 동반한) 공포감[충격]	She felt a deep sense of revulsion at the violence.	그녀는 그 폭력 행위에 깊은 혐오감을 느꼈다.
+prowess	(절묘한) 기량[솜씨]	academic / sporting prowess.	학자/운동선수로서의 기량.
+diversity	다양성	the biological diversity of the rainforests.	열대우림 지역 생물의 다양성.
+brittle	잘 부러지는	brittle bones/nails.	잘 부러지는 뼈/손톱.
+infer	추론하다	Much of the meaning must be inferred from the context.	의미의 많은 부분을 문맥에서 추론해 내어야 한다.
+forfeit	몰수[박탈]당하다	If you cancel your flight, you will forfeit your deposit.	비행을 취소하면 예약금을 못 돌려받을 것이다.
+cumbersome	크고 무거운, 다루기 힘든	cumbersome machinery.	크고 무거운 기계류.
+insidious	서서히[은밀히] 퍼지는	the insidious effects of polluted water supplies.	오염된 상수도의 서서히 미치는 영향.
+tamper	쓸데없는 참견을 하다, 간섭하다 ((with))	Someone had obviously tampered with the brakes of my car.	누군가가 분명히 내 차 브레이크에 손을 댔던 모양이었다.
+fallout	(방사능) 낙진	His hair is falling out.	그는 머리가 벗겨지고 있다.
+oblivious	의식하지 못하는	He drove off, oblivious of the damage he had caused.	그는 자기가 야기한 손상을 의식하지 못한 채 차를 몰고 가 버렸다.
+grotesque	터무니없는, 말도 안 되는(불쾌하거나 모욕적일 정도로 이상함을 나타냄)	a grotesque distortion of the truth.	터무니없는 진실 왜곡.
+havoc	대파괴, 큰 혼란[피해]	The floods caused havoc throughout the area.	홍수로 그 지역 전체가 완전 파괴되었다.
+outstanding	뛰어난, 걸출한	an outstanding player / achievement / success.	뛰어난 선수/성과/성공.
+hyperbole	과장법		
+exterminate	몰살[전멸]시키다	그의 가족 모두가 몰살당했다.	.
+concentrate	(정신을) 집중하다[집중시키다], 전념하다	I can't concentrate with all that noise going on.	저렇게 마구 소음이 계속되니 집중을 할 수가 없다.
+meticulous	꼼꼼한, 세심한	meticulous planning/records/research.	꼼꼼한 계획/기록/조사.
+extract	발췌, 초록	The following extract is taken from her new novel.	다음 발췌문은 그녀의 새 소설에서 따온 것이다.
+blunt	무딘, 뭉툭한	a blunt knife.	무딘 칼.
+curse	욕(설), 악담	He muttered a curse at the other driver.	그가 상대방 운전자를 향해 욕설을 중얼거렸다.
+disintegration	[UC] 분해, 붕괴, 분열, 분산; [물리] (방사성 원소의) 붕괴; [지질] 풍화 작용	The plane disintegrated as it fell into the sea.	그 비행기는 바다로 추락하면서 산산조각이 나 버렸다.
+insolvent	파산한	The company has been declared insolvent.	그 회사는 파산 선고를 받았다.
+compromise	타협[절충](내용)	After lengthy talks the two sides finally reached a compromise.	오랜 회담 끝에 양측이 마침내 타협에 이르렀다.
+demolish	(건물을) 철거하다	The factory is due to be demolished next year.	그 공장은 내년에 철거될 예정이다.
+boost	신장시키다, 북돋우다	to boost exports / profits.	수출/수익을 신장시키다.
+erudite	학식 있는, 박식한	그는 정치에 관해서 박식하다.	.
+caviler	트집쟁이		
+loathe	혐오하다	I loathe modern art.	난 현대 미술을 혐오한다.
+retain	(계속) 유지[보유]하다	to retain your independence.	자신의 독립을 유지하다.
+timid	소심한, 용기[자신감]가 없는	He stopped in the doorway, too timid to go in.	그는 문간에서 멈춰 섰다. 너무 용기가 없어서 들어가지는 못하고.
+equitable	공정한, 공평한	공평한 사회.	a just society.
+docile	유순한, 고분고분한	a docile child / horse.	말을 잘 듣는 아이/말.
+precedent	(판결・공식적인 결정 등의) 선례, 판례	The ruling set a precedent for future libel cases.	그 판결은 미래의 명예 훼손 사건들에 대한 선례를 만들었다.
+discrimination	차별	age/racial/sex/sexual discrimination.	연령/인종/성 차별.
+infraction	(법규의) 위반	minor infractions of EU regulations.	사소한 유럽연합 규정 위반.
+transcript	(구술된 내용을) 글로 옮긴 기록[인쇄/전사한 것]	a transcript of the interview.	그 인터뷰를 글로 옮긴 것.
+modify	(더 알맞도록) 수정[변경]하다, 바꾸다	The software we use has been modified for us.	우리가 사용하는 소프트웨어는 우리에게 맞도록 변경한 것이다.
+gradual	점진적인, 서서히 일어나는	a gradual change in the climate.	점진적인 기후 변화.
+petrify	겁에 질리게 만들다	꽁꽁 얼어붙다.	.
+firsthand	직접(으로), 바로(at first hand); 직접 체험으로	The President visited the area to see the devastation at first hand.	대통령이 그 참화 현장을 직접 보기 위해 그 지역을 방문했다.
+laudatory	칭찬, 감탄		
+innate	타고난, 선천적인	the innate ability to learn.	타고난 학습 능력.
+dichotomy	양분(兩分), 이분(二分)	그는 이분법적인 사고방식을 가지고 있다.	.
+cadaverous	죽은 사람[유령] 같은		
+bristle	짧고 뻣뻣한 털	the bristles on his chin.	그의 턱에 난 까칠까칠한 수염.
+invaluable	매우 유용한, 귀중한	invaluable information.	귀중한 정보.
+catastrophe	참사, 재앙	Early warnings of rising water levels prevented another major catastrophe.	불어나는 수위에 대한 조기 경보로 또 하나의 대형 참사를 막았다.
+discard	(불필요한 것을) 버리다, 폐기하다	The room was littered with discarded newspapers.	그 방에는 헌 신문지들이 흩어져 있었다.
+intellectual	지능의, 지적인	intellectual curiosity.	지적 호기심.
+indolent	게으른, 나태한	나태한 생활.	a(n) lazy[idle] life.
+urbane	세련된, 점잖은		
+exuberant	활기[생동감] 넘치는	She gave an exuberant performance.	그녀는 활기 넘치는 공연을 했다.
+cramped	(방 등이) 비좁은	working in cramped conditions.	비좁은 환경에서 작업을 하는.
+encompass	(많은 것을) 포함[망라]하다, 아우르다	The job encompasses a wide range of responsibilities.	그 일자리에서는 다양한 책무를 맡게 된다.
+abide	머무르다, 깃들이다	May joy and peace abide in us all.	저희 모두에게 기쁨과 평화가 깃들기를.
+entice	(보통 무엇을 제공하며) 유도[유인]하다]	The bargain prices are expected to entice customers away from other stores.	그 저렴한 가격으로 고객들을 다른 매장에서 유도해 낼 수 있을 것으로 예상된다.
+gestation	임신[잉태] (기간)	a baby born at 38 weeks' gestation.	임신 38주 만에 태어난 아기.
+reconcile	(두 가지 이상의 생각・요구 등을) 조화시키다	It was hard to reconcile his career ambitions with the needs of his children.	그의 출세의 야망과 자녀들의 요구 사이에서 조화를 이루는 것이 힘들었다.
+milestone	중요한[획기적인] 단계[사건]	The case was milestone in my life.	그 사건은 내 인생의 중대시점이었다.
+ambush	매복 (공격)	Two soldiers were killed in a terrorist ambush.	테러범들의 매복 공격으로 군인 두 명이 사망했다.
+unexpurgated	 (검열에서) 삭제[수정]되지 않은; 완전한		
+applause	박수 (갈채)	The audience broke into rapturous applause.	청중들이 열광적인 박수갈채를 터뜨렸다.
+commuter	통근자	the commuter belt.	(대도시 주위의) 통근자들 거주 지역.
+contrary	~와는 다른[반대되는]	Contrary to popular belief, many cats dislike milk.	일반적인 믿음과는 반대로 많은 고양이들이 우유를 싫어한다.
+knowingly	(사정 등을) 다 알고도, 고의로	She was accused of knowingly making a false statement to the police.	그녀는 경찰에 고의로 거짓 진술을 했다는 혐의를 받았다.
+conform	집단의 다른 구성원들과 행동[생각]을 같이 하다; (관습 등에) 따르다[순응하다]	There is considerable pressure on teenagers to conform.	십대들에게는 또래 집단과 같이 행동해야 한다는 압박감이 상당하다.
+lethargic	기면(嗜眠)성[증]의; 혼수(상태)의; 무기력한, 활발하지 못한; 둔감한	무기력 상태에 빠지다.	become lethargic.
+posture	(사람이 앉거나 서 있는) 자세	a comfortable / relaxed posture.	편안한/느긋한 자세.
+spectacular	장관을 이루는; 극적인	spectacular scenery.	장관을 이루는 풍경.
+redundant	(일거리 부족으로) 정리 해고[감원 조치/실직]당한	to be made redundant from your job.	직장에서 정리 해고당하다.
+strenuous	힘이 많이 드는, 몹시 힘든, 격렬한	a strenuous climb.	몹시 힘든 등반.
+ferocious	흉포한; 맹렬한, 격렬한	a ferocious beast / attack / storm.	흉포한 짐승/공격/맹렬한 폭풍.
+voracious	(음식에 대해) 게걸스러운	a voracious eater.	게걸스럽게 먹는 사람.
+inalienable	빼앗을 수 없는	the inalienable right to decide your own future.	스스로의 미래를 결정할, 빼앗을 수 없는 권리.
+assiduous	근면 성실한	직무에 정려하다.	.
+tractable	다루기 쉬운		
+deject	…의 기를 꺾다, 낙담시키다		
+continually	계속해서, 계속적으로, 끊임없이, 줄곧	continual complaints/interruptions.	거듭되는 항의/방해.
+confine	(활동・주제・지역 등을) 국한시키다	The work will not be confined to the Glasgow area.	그 작업이 글래스고 지역에만 국한되지는 않을 것이다.
+bleak	암울한, 절망적인	a bleak outlook/prospect.	암울한 전망.
+epitomize	완벽한 보기이다, 전형적으로 보여주다	The fighting qualities of the team are epitomized by the captain.	그 팀의 투지력은 팀의 주장에게서 완벽한 예를 볼 수 있다.
+hefty	장대한; 크고 무거운	Her brothers were both hefty men in their forties.	그녀의 오빠[남동생]들은 두 사람 다 기골이 장대한 40대였다.
+prescription	처방전	prescription drugs/medication(s).	처방전이 있어야 구입할 수 있는 약제.
+reiterate	(이미 한 말을, 특히 강조하기 위해) 반복하다[되풀이하다]	to reiterate an argument / a demand / an offer.	주장/요구/제의를 반복하다.
+compensate	보상하다	Nothing can compensate for the loss of a loved one.	사랑하는 사람을 잃은 것은 그 무엇으로도 보상할 수 없다.
+impiety	신앙심이 없음, 경건하지 않음		
+incessantly	그칠 새[간단] 없이, 계속적으로.	incessant noise / rain / chatter.	끊임없는 소음/쉬지 않고 내리는 비/쉴새없는 수다.
+deter	단념시키다, 그만두게 하다	I told him I wasn't interested, but he wasn't deterred.	내가 그에게 관심 없다고 했지만 그는 단념하지 않았다.
+amicable	우호적인, 원만한	an amicable relationship.	우호적인 관계.
+conflict	(사람이나 국가들 사이의 이해관계로 인한) 갈등[충돌]	a conflict between two cultures.	두 문화간의 충돌.
+spontaneous	자발적인, 마음에서 우러난	a spontaneous offer of help.	자발적인 도움 제의.
+genuine	진짜의, 진품의	Is the painting a genuine Picasso?.	그 그림이 피카소 진품인가요?.
+enervate	기력을 떨어뜨리다	an enervating disease / climate.	기력을 떨어뜨리는 병/날씨.
+remuneration	보수	잃어버린 돈을 찾아 준 대가로 거액의 사례금을 받았다.	.
+impetus	(일의 추진에 필요한) 자극(제)[추동력]	to give (a) new/fresh impetus to sth.	…에 새로운/신선한 자극이 되다.
+conjugal	부부의, 부부 관계의	conjugal love.	부부간의 사랑.
+prior	(다른 무엇・특정 시간보다) 사전의	Although not essential, some prior knowledge of statistics is desirable.	필수적인 것은 아니지만 통계학에 대한 약간의 사전 지식이 있으면 좋습니다.
+adverse	부정적인, 불리한	adverse change/circumstances/weather conditions.	불리한 변화/상황/기상 조건.
+deplorable	개탄스러운	a deplorable incident.	개탄스러운 사건.
+abuse	남용, 오용	alcohol/drug/solvent abuse.	지나친 음주/약물 남용/본드 흡입.
+astronomer	천문학자		
+horizontal	수평(선)의, 가로의	horizontal lines.	수평으로 난 선들.
+context	(어떤 일의) 맥락, 전후 사정	This speech needs to be set in the context of Britain in the 1960s.	이 연설은 1960년대의 영국이라는 맥락 속에 두고 볼 필요가 있다.
+intimidate	(시키는 대로 하도록) 겁을 주다[위협하다]	They were accused of intimidating people into voting for them.	그들은 자기들에게 투표를 하도록 사람들을 위협했다는 비난을 받았다.
+deteriorate	악화되다, 더 나빠지다	Her health deteriorated rapidly, and she died shortly afterwards.	그녀는 건강이 급속도로 악화되어 그 후 곧 죽었다.
+procure	(특히 어렵게) 구하다[입수하다]	She managed to procure a ticket for the concert.	그녀는 간신히 그 콘서트 티켓 한 장을 구할 수 있었다.
+eternal	영원한	the promise of eternal life in heaven.	천국에서의 영생이라는 약속.
+apprehend	체포하다	I was a little apprehensive about the effects of what I had said.	나는 내가 한 말이 가져올 결과가 좀 걱정스러웠다.
+increment	(정기적인) 임금 인상	a salary of £25K with annual increments.	연례 임금 인상이 붙는 25,000파운드의 급여.
+maritime	바다의, 해양의; 배의	a maritime museum.	해양 박물관.
+dilate	확장[팽창]하다[시키다], 키우다[커지다]	Her eyes dilated with fear.	공포에 질려 그녀의 두 눈이 커다랗게 벌어졌다.
+endorse	(공개적으로) 지지하다	I wholeheartedly endorse his remarks.	저는 진심으로 그의 발언을 지지합니다.
+obliquely	비스듬히 (기울어져); 부정하게; 간접으로	an oblique reference/approach/comment.	에둘러 가리킴/간접적인 방법/완곡한 논평.
+demise	(기관・사상・기업 등의) 종말	This policy is doomed to failure.	
+thoroughfare	(특히 도시의) 주요[간선] 도로	도로를 건설하다.	construct a road.
+inure	[보통 ~ oneself 또는 수동형으로] 익히다, 단련하다	( inure +[목]+[전]+[명] ) be  inure  d to distress.	고난에 단련되어 있다.
+ensue	(어떤 일・결과가) 뒤따르다	An argument ensued.	언쟁이 뒤따랐다.
+chilling	으스스한	a chilling story.	으스스한 이야기.
+disentangle	(혼란스러운 주장・생각 등을) 구분하다	It's not easy to disentangle the truth from the official statistics.	공식적인 통계에서 진실을 구분해내기는 쉽지 않다.
+burgeon	급성장[급증]하다		
+minute	극미한, 극히 작은	minute amounts of chemicals in the water.	그 물 속에 든 극미량의 화학 물질들.
+ban	금(지)하다	Chemical weapons are banned internationally.	화학 무기는 국제적으로 금지되고 있다.
+punctual	시간을 지키는[엄수하는]	She has been reliable and punctual.	그녀는 믿을 수 있고 시간도 엄수해 왔다.
+acquaint	익히다, 숙지하다	Please acquaint me with the facts of the case.	제가 그 사건과 관련된 사실들을 숙지할 수 있게 해 주십시오.
+surveillance	감시	The police are keeping the suspects under constant surveillance.	경찰이 그 용의자들을 계속 감시하고 있다.
+thrift	절약, 검약	New businesses thrive in this area.	이 지역에서는 새 사업체들이 번창하고 있다.
+drastic	과감한, 극단적인; 급격한	drastic measures/changes.	과감한[극단적인] 조치/급격한 변화.
+bondage	구속[속박](된 상태)	women's liberation from the bondage of domestic life.	가정생활이라는 속박으로부터의 여성들의 해방.
+congest	혼잡하게 하다, 정체시키다(overcrowd)		
+desecrate	(신성한 것을) 훼손하다	desecrated graves.	훼손당한 무덤들.
+inspiration	(특히 예술적 창조를 가능하게 하는) 영감	Dreams can be a rich source of inspiration for an artist.	예술가에게는 꿈이 풍부한 영감의 원천이 될 수가 있다.
+reluctant	꺼리는, 마지못한, 주저하는	reluctant agreement.	마지못해 하는 동의.
+agenda	의제[안건] (목록)	The next item on the agenda is the publicity budget.	다음 안건은 홍보비 문제입니다.
+exemplary	모범적인	Her behaviour was exemplary.	그녀의 행동은 모범적이었다.
+iridescence	무지갯빛, 보는 각도에 따라 달라지는 빛, 훈색(暈色)	a bird with iridescent blue feathers.	무지갯빛 청색 깃털을 가진 새.
+sensitive	(남의 기분을 헤아리는 데) 세심한	a sensitive and caring man.	세심하고 배려 있는[세심하게 마음을 써 주는] 남자.
+lapse	(특히 무엇을 잊어버리거나 부주의해서 하는 작은) 실수[과실], 깜박함	a lapse of concentration/memory.	잠깐 동안의 부주의[잠깐 깜박함]/순간적인 착오.
+abrogate	(법령・합의 등을) 폐지하다[철폐하다]	사형 제도를 폐지하다.	.
+glimpse	(완전히는 못 보고) 잠깐[언뜻] 봄, 일별	He caught a glimpse of her in the crowd.	그는 군중 속에 있는 그녀를 언뜻 보았다.
+inquisitive	꼬치꼬치 캐묻는	Don't be so inquisitive. It's none of your business!.	그렇게 꼬치꼬치 캐묻지 마. 네가 상관할 일이 아니잖아!.
+trample	짓밟다, 밟아 뭉개다	People were trampled underfoot in the rush for the exit.	사람들이 출구를 찾아 몰리면서 발밑에 깔려 짓밟혔다.
+malady	심각한 문제, 병폐	Violent crime is only one of the maladies afflicting modern society.	폭력 범죄는 현대 사회를 괴롭히는 심각한 문제들 중의 하나일 뿐이다.
+arrogant	오만한	나는 너처럼 건방진 애들은 딱 질색이야!.	.
+redress	(부당하거나 잘못된 것을) 바로잡다[시정하다]	to redress an injustice.	부당한 것을 바로잡다.
+besiege	포위하다, 에워싸다	Paris was besieged for four months and forced to surrender.	파리는 넉 달 동안 포위당해 항복을 할 수 밖에 없었다.
+inept	솜씨 없는, 서투른	She was left feeling inept and inadequate.	그녀는 솜씨 없고 미숙하다는 느낌을 안게 되었다.
+opulent	호화로운	호사스러운 생활을 하다.	live in luxury[extravagance].
+succinct	간단명료한, 간결한	Keep your answers as succinct as possible.	대답은 가능한 한[최대한] 간단명료하게 하라.
+defuse	(긴장・위험 등을) 진정[완화]시키다	Local police are trying to defuse racial tension in the community.	지역 경찰에서는 그 지역 사회 내의 인종 간 긴장을 완화시키기 위해 애쓰고 있다.
+vicinity	(…의) 부근[인근]	Crowds gathered in the vicinity of Trafalgar Square.	군중들이 트라팔가 광장 부근으로 모여들었다.
+affluent	부유한	affluent Western countries.	부유한 서구 국가들.
+contentious	논쟁을 초래할 (듯한)	a contentious issue/topic/subject.	논쟁이 될 쟁점/화제/주제.
+imaginative	창의적인, 상상력이 풍부한	an imaginative approach / idea / child.	창의적인 접근법/발상/상상력이 풍부한 아이.
+traitorous	배반하는, 반역적인	He was seen as a traitor to the socialist cause.	그는 사회주의 대의에 대한 배반자로 여겨졌다.
+consumption	(에너지・식품・물질의) 소비[소모](량)	the production of fuel for domestic consumption.	가정 소비용 연료 생산.
+eligible	(자격・연령 등의 조건이 맞아서) …을 가질[할] 수 있는	Only those over 70 are eligible for the special payment.	70세가 넘는 사람들만이 그 특별 수당을 받을 수 있다.
+custody	양육권, 보호[관리]권; 양육, 관리	Who will have custody of the children?.	아이들 양육권은 누가 갖게 되나요?.
+defiant	(공개적으로, 때로는 공격적으로) 반항[저항]하는	a defiant teenager.	반항적인 십대 (청소년).
+instantaneous	즉각적인	an instantaneous response.	즉각적인 반응.
+impel	(생각・기분이) …해야만 하게 하다	He felt impelled to investigate further.	그는 더 깊이 조사해 보아야 한다는 기분이 들었다.
+projecting	돌출한, 툭 튀어나온	projecting eyes.	퉁방울눈.
+degenerate	(도덕적・육체적・정신적으로) 악화되다	The march degenerated into a riot.	시위대의 행진이 악화되어 폭동이 되었다.
+villain	(이야기・연극 등의 중심인물인) 악당[악한]	He often plays the part of the villain.	그는 자주 악당 역할[악역]을 연기한다.
+allege	(증거 없이) 혐의를 제기하다[주장하다]	The prosecution alleges (that) she was driving carelessly.	검찰측은 그녀가 난폭 운전을 하고 있었다고 주장한다.
+capricious	변덕스러운	그녀는 너무 변덕스러워서 예측이 불가능하다.	.
+cultivate	(땅을) 경작하다, 일구다	The land around here has never been cultivated.	이 인근 지역의 땅은 경작된 적이 한 번도 없다.
+impatient	(특히 오래 기다려야 하는 것 때문에) 짜증난[안달하는]	I'd been waiting for twenty minutes and I was getting impatient.	나는 20분 동안 기다리던 상태여서 짜증이 나기 시작하는 참이었다.
+coherent	일관성 있는, 논리[조리] 정연한	a coherent narrative/account/explanation.	조리 있는 서술/이야기/설명.
+beverage	(물 외의) 음료	laws governing the sale of alcoholic beverages.	주류 판매 관련법.
+laconic	말을 많이 하지 않는, 할 말만 하는		
+culminate	(~으로) 끝이 나다[막을 내리다]	Their summer tour will culminate at a spectacular concert in London.	그들의 하계 순회공연은 런던에서의 장대한 콘서트로 막을 내린다.
+innuendo	빗대어 하는 말, 빈정거림	innuendoes about her private life.	그녀의 사생활을 빗대어 하는 말들.
+extricate	(곤란한 상황에서) 해방되다[해방시키다]	He had managed to extricate himself from most of his official duties.	그는 대부분의 공적 직무들에서 간신히 해방된 상태였다.
+indignation	분개, 분함	The rise in train fares has aroused public indignation.	기차 요금 인상은 대중의 분개를 불러일으켰다.
+solemn	침통한; 근엄한	Her face grew solemn.	그녀의 얼굴이 침통[근엄]해졌다.
+destitute	극빈한, 궁핍한	When he died, his family was left completely destitute.	그가 죽었을 때 그의 가족은 철저한 궁핍 속에 내버려지게 되었다.
+gloomy	어둑어둑한; 음울한	a gloomy room / atmosphere.	어둑어둑한 방/음울한 분위기.
+impede	(진행을) 지연시키다[방해하다]	Work on the building was impeded by severe weather.	혹독한 날씨 때문에 그 건물 공사가 지연되었다.
+hunch	(등을) 구부리다	She leaned forward, hunching over the desk.	그녀는 몸을 앞으로 기대며 책상 위로 등을 구부렸다.
+solicit	간청[요청]하다, 얻으려고[구하려고] 하다	They were planning to solicit funds from a number of organizations.	그들은 여러 기관들로부터 기금을 얻으려고 계획하고 있었다.
+litigate	소송[고소]하다		
+thrive	번창하다; 잘 자라다	New businesses thrive in this area.	이 지역에서는 새 사업체들이 번창하고 있다.
+compassion	연민, 동정심	to feel/show compassion.	연민을 느끼다/보이다.
+forge	구축하다	a move to forge new links between management and workers.	노사간에 새로운 관계를 구축하려는 움직임.
+identify	(신원 등을) 확인하다[알아보다]	The bodies were identified as those of two suspected drug dealers.	그 사체는 두 명의 마약 거래 용의자들 것임이 확인되었다.
+encroach	(남의 시간・권리・생활 등을) 침해하다	I won't encroach on your time any longer.	당신의 시간을 더 이상 빼앗고 싶지 않아요.
+buttress	(벽의) 지지대, 부벽	쓰러져 가는 집을 살잡다.	buttress a falling house.
+amid	(특히 흥분・공포심이 느껴지는) 가운데[중]에	He finished his speech amid tremendous applause.	그는 엄청난 박수가 쏟아지는 가운데 연설을 마쳤다.
+annex	(국가・지역 등을 특히 무력으로) 합병하다	Germany annexed Austria in 1938.	독일은 1938년에 오스트리아를 합병시켰다.
+detrimental	해로운	the sun's detrimental effect on skin.	피부에 해로운 햇빛의 영향.
+intermittent	간헐적인, 간간이 일어나는	intermittent bursts of applause.	간간이 터져 나오는 박수 소리.
+counterfeit	위조의, 모조의	counterfeit watches.	모조 시계.
+elude	(교묘히) 피하다[빠져나가다]	The two men managed to elude the police for six weeks.	그 두 남자는 경찰을 6주 동안 용케도 피해 다녔다.
+intact	(하나도 손상되지 않고) 온전한, 전혀 다치지 않은	Most of the house remains intact even after two hundred years.	그 집은 200년이 지났는데도 대부분이 온전하다.
+equanimity	(특히 힘든 상황에서의) 침착, 평정	She accepted the prospect of her operation with equanimity.	그녀는 수술을 해야 할 가능성을 침착하게 받아들였다.
+appease	달래다	The move was widely seen as an attempt to appease critics of the regime.	그 조치는 정권의 비판자들을 달래기 위한 시도로 널리 비춰졌다.
+automation	자동화	Automation meant the loss of many factory jobs.	자동화는 공장에서 일자리가 많이 없어짐을 의미했다.
+convince	납득시키다, 확신시키다	You'll need to convince them of your enthusiasm for the job.	그 일[직장]에 대한 당신의 열의를 그들에게 납득시킬 필요가 있을 것이다.
+redeem	(결함 등을) 보완[벌충/상쇄]하다	The excellent acting wasn't enough to redeem a weak plot.	뛰어난 연기도 허약한 줄거리를 보완하기에는 충분하지 못했다.
+utter	(강조의 의미로) 완전한[순전한]	That's complete and utter nonsense!.	그건 그야말로 완전 순 헛소리야!.
+abstruse	난해한	an abstruse argument.	난해한 주장.
+chagrin	원통함, 분함		
+trivial	사소한, 하찮은	a trivial detail.	사소한 세부 사항.
+refrain	(특히 하고 싶은 것을) 삼가다	Please refrain from smoking.	흡연을 삼가 주십시오.
+inertia	무력; 타성	I can't seem to throw off this feeling of inertia.	나는 이 무력감을 떨쳐 버릴 수가 없는 것 같다.
+trifle	약간	She seemed a trifle anxious.	그녀는 약간 불안해하는 것 같았다.
+acquire	(노력・능력으로) 습득하다[얻다]	She has acquired a good knowledge of English.	그녀는 훌륭한 영어 지식을 습득했다.
+disappear	(눈앞에서) 사라지다, 보이지 않게 되다	The plane disappeared behind a cloud.	비행기는 구름 뒤로 사라졌다.
+nadir	(어떤 상황에서) 최악의 순간[바닥]	the nadir of his career.	그의 경력에 있어서 최악의 순간.
+recess	(의회・위원회 등의) 휴회 기간	The sound of the truck receded into the distance.	트럭 소리는 차츰 멀어져 갔다.
+discreet	신중한, 조심스러운	He was always very discreet about his love affairs.	그는 애정 문제에 대해서는 언제나 아주 신중했다.
+disavow	(무엇에 대한 지식・책임을 공개적으로) 부인하다	They disavowed claims of a split in the party.	그들은 당 내부에 분열이 있다는 주장들을 부인했다.
+interminable	(지겹고 짜증날 정도로) 끝없이 계속되는	an interminable speech / wait / discussion.	끝없이 계속되는 연설/기다림/논의.
+tenet	주의(主義), 교리(敎理)	one of the basic/central tenets of Christianity.	기독교 기본/중심 교리의 하나.
+compliance	(법・명령 등의) 준수; (명령 등에) 따름	procedures that must be followed to ensure full compliance with the law.	완전한 법률 준수를 보장하기 위해 반드시 지켜야 할 절차들.
+novice	초보자	I'm a complete novice at skiing.	나는 스키에는 완전 초보자이다.
+stigma	오명	There is no longer any stigma attached to being divorced.	이젠 더 이상 이혼한 것에 대해 어떤 오명이 붙지 않는다.
+confer	상의하다	He wanted to confer with his colleagues before reaching a decision.	그는 결정을 내리기 전에 동료들과 상의를 하고 싶었다.
+setback	차질	The team suffered a major setback when their best player was injured.	그 팀은 팀 내 최우수 선수가 부상을 입어서 중대한 차질을 겪었다.
+imbibe	(특히 술을) 마시다	젖을 들이빨다.	suck the breast hard.
+imperative	반드시 해야 하는, 긴요한	It is absolutely imperative that we finish by next week.	우리가 반드시 다음 주까지 일을 마쳐야 한다.
+turbid	탁한, 흐린	탁한 공기.	hazy air.
+knockabout	(코미디 등이) 과장된 행동으로 사람들을 웃기는	He spent a few years knocking around Europe.	그는 유럽을 돌아다니며 몇 년을 보냈다.
+pertinent	(특정한 상황에) 적절한[관련 있는]	a pertinent question/fact.	적절한 질문/관련 있는 사실.
+nascent	발생기의, 초기의		
+helm	(배의) 키	Down[Up] (with the) helm!.	키 내려[올려]!.
+brilliant	훌륭한, 멋진	What a brilliant idea!.	정말 멋진 생각이야!.
+dearth	(…의) 부족[결핍]	There was a dearth of reliable information on the subject.	그 주제에 대해서는 믿을 만한 정보가 부족했다.
+promote	촉진[고취]하다	policies to promote economic growth.	경제 성장을 촉진하기 위한 정책들.
+hubris	자만심		
+vain	헛된, 소용없는	She closed her eyes tightly in a vain attempt to hold back the tears.	그녀는 눈물을 참으려고 두 눈을 질끈 감았으나 허사였다.
+annual	매년의, 연례의	an annual meeting/event/report.	연례회의/행사/보고.
+insuperable	대처[극복]할 수 없는		
+erode	(비바람이[에]) 침식[풍화]시키다[되다]	The cliff face has been steadily eroded by the sea.	그 절벽의 전면은 바닷물에 끊임없이 침식되어 왔다.
+contrite	깊이 뉘우치는, 회한에 찬	회개의 눈물을 흘리다.	shed tears of repentance.
+euthanasia	안락사	They argued in favour of legalizing voluntary euthanasia.	그들은 자발적 안락사의 합법화를 지지하는 주장을 했다.
+inundate	감당 못할 정도로 주다[보내다]	We have been inundated with offers of help.	우리에게 도와주겠다는 제의가 물밀듯이 몰려들었다.
+facet	측면, 양상	Now let's look at another facet of the problem.	이제 그 문제의 또 다른 측면을 살펴보죠.
+elucidate	(더 자세히) 설명하다	He elucidated a point of grammar.	그가 문법 요소 한 가지를 설명했다.
+crackdown	엄중 단속, 강력 탄압	a military crackdown on student protesters.	학생 저항 운동권에 대한 군부의 강력한 탄압.
+strain	부담, 중압[압박](감)	Their marriage is under great strain at the moment.	그들의 결혼 생활이 현재 큰 압박을 받고 있다.
+humiliate	굴욕감을 주다	I didn't want to humiliate her in front of her colleagues.	나는 그녀에게 동료들 앞에서 굴욕감을 주고 싶지는 않았다.
+dependable	믿을[신뢰할] 수 있는	아들 녀석이 제법 듬직하게 느껴진다.	.
+devour	(특히 몹시 배가 고파서) 걸신 들린 듯 먹다	I saw a horse which got hurt devoured the way.	나는 상처 입은 말이 빨리 달려가는 것을 보았다.
+lure	꾀다, 유혹하다	The child was lured into a car but managed to escape.	그 아이는 꾐에 빠져 어떤 차에 탔지만 용케 탈출했다.
+judicious	신중한, 판단력 있는	명판사.	an able judge.
+adapt	(새로운 용도・상황에) 맞추다[조정하다]	Most of these tools have been specially adapted for use by disabled people.	이 도구들 대부분은 장애인 분들이 사용하실 수 있도록 특별히 맞춰져 있습니다.
+submit	(서류・제안서 등을) 제출하다	to submit an application/a claim/a complaint.	지원서/청구서/항의서를 제출하다.
+resolve	(문제 등을) 해결하다	to resolve an issue/a dispute/a conflict/a crisis.	쟁점/분쟁/갈등/위기를 해결하다.
+monk	수도자, 수도승	Benedictine/Buddhist monks.	베네딕트 수사/불교 수도승.
+empower	권한을 주다	The courts were empowered to impose the death sentence for certain crimes.	법원은 특정 범죄들에 대해 사형을 부과할 수 있는 권한을 갖고 있었다.
+sanguine	낙관적인, 자신감이 넘치는	They are less sanguine about the company's long-term prospects.	그 회사의 장기적인 전망에 대해서는 그들이 덜 낙관적이다.
+prevail	만연[팽배]하다	We were horrified at the conditions prevailing in local prisons.	우리는 지역 교도소들에 만연한 상황에 소름이 끼쳤다.
+refined	정제된, 제련된	refined sugar.	정제 설탕.
+competent	능숙한	He's very competent in his work.	그는 자기 업무에 아주 능숙하다.
+flake	(특히 다른 큰 것에서 떨어져 나온 얇은) 조각	flakes of snow/paint.	눈송이/페인트 조각.
+gregarious	남과 어울리기 좋아하는, 사교적인	그녀는 사교적이다.	.
+carnivorous	 육식성의;  식충성의		
+distribute	(사람들에게) 나누어 주다, 분배[배부]하다	The organization distributed food to the earthquake victims.	그 단체에서 지진 피해자들에게 먹을 것을 나눠 주었다.
+momentous	중대한	a momentous decision/event/occasion.	중대 결정/사건/행사.
+confidential	비밀[기밀]의	confidential information/documents.	비밀 정보/기밀 서류.
+assure	장담하다, 확언[확약]하다	You think I did it deliberately, but I assure you (that) I did not.	넌 내가 일부러 그랬다고 생각하지만, 네게 확실히 말하는데 그렇지 않아.
+reprimand	질책하다	The officers were severely reprimanded for their unprofessional behaviour.	그 경찰관들은 전문가답지 못한 행동을 한 데 대해 심한 질책을 받았다.
+deign	치사스럽지만[자기 격에 떨어지지만] 한다는 듯이 굴다	She just grunted, not deigning to look up from the page.	그녀는 그냥 툴툴거리기만 했다. (읽고 있던) 페이지에서 눈을 들어 쳐다보는 것도 자존심 상한다는 듯이.
+legible	읽을[알아볼] 수 있는, 또렷한	legible handwriting.	또렷한 글씨.
+amass	모으다, 축적하다	He amassed a fortune from silver mining.	그는 은광업으로 큰 재산을 모았다.
+intimate	친(밀)한	intimate friends.	친한 친구들.
+demonstrate	증거[실례]를 들어가며 보여주다, 입증[실증]하다	These results demonstrate convincingly that our campaign is working.	이들 결과는 우리 캠페인이 효과가 있음을 확실히 입증한다.
+beat up	(게임・시합에서) 이기다	He beat me at chess.	그가 체스에서 나를 이겼다.
+diagnosis	진단	diagnosis of lung cancer.	폐암 진단.
+bilateral	쌍방의, 쌍무적인	bilateral relations/agreements/trade/talks.	쌍방 관계/합의/무역/회담.
+compel	강요[강제]하다; (필요에 따라) …하게 만들다	The law can compel fathers to make regular payments for their children.	아버지가 자녀들을 위해 정기적으로 돈을 지불하도록 법으로 강제할 수 있다.
+ambiguous	애매모호한, 여러 가지로 해석할 수 있는	an ambiguous word/term/statement.	애매모호한 단어/용어/진술.
+fiasco	낭패	What a fiasco!.	이 무슨 낭패람!.
+commiseration	(특히 시합에서 진 사람에 대한) 위로[동정]의 표현	I offered him my commiseration.	나는 그에게 위로의 말을 건넸다.
+cozy		a cosy little room.	작고 아늑한 방.
+investigate	(상황・사건・범죄 등에 대해) 수사[조사]하다, 살피다	The FBI has been called in to investigate.	연방수사국이 수사에 투입되었다.
+deference	존중[경의](을 표하는 행동)	The women wore veils in deference to the customs of the country.	그 여성들은 그 나라의 관습을 존중하여 베일을 쓰고 있었다.
+crave	갈망[열망]하다	She has always craved excitement.	그녀는 항상 자극을 갈망해 왔다.
+frenzied	광분한, 광란한	a frenzied attack.	광분한 공격.
+aberrant	도리를 벗어난, 일탈적인	aberrant behaviour.	도리를 벗어난 행동.
+incalculable	헤아릴 수 없이 많은, 막대한	The oil spill has caused incalculable damage to the environment.	그 기름 유출은 환경에 막대한 해를 끼쳤다.
+asset	자산(이 되는 사람・물건)	She'll be an asset to the team.	그녀는 팀의 자산이 될 것이다.
+bolster	북돋우다, 강화[개선]하다	to bolster sb's confidence/courage/morale.	~의 자신감/용기/사기를 북돋우다.
+bulky	부피가 큰[커서 옮기기 힘든]	Bulky items will be collected separately.	부피가 큰 품목들은 따로 모은다.
+tease	(악의 없이 또는 악의적으로) 놀리다[장난하다], 지분[집적]거리다	Don't get upset—I was only teasing.	화내지 마. 그냥 장난으로 그런 거야.
+liver	(인체의) 간	a fast liver.	방탕한 사람.
+fickle	변덕스러운, 변화가 심한	The weather here is notoriously fickle.	이곳 날씨는 변덕스럽기로 악명 높다.
+detach	(더 큰 것에서) 떼다[분리하다]; 분리되다	Detach the coupon and return it as soon as possible.	쿠폰을 떼어 내어 가능한 한 빨리 발송해 주세요.
+cryptic	수수께끼 같은, 아리송한	a cryptic message/remark/smile.	수수께끼 같은 메시지/발언/미소.
+precipitate	(특히 나쁜 일을) 촉발시키다	His resignation precipitated a leadership crisis.	그의 사임이 지도력 위기를 촉발시켰다.
+foster	조성하다, 발전시키다	The club's aim is to foster better relations within the community.	그 클럽의 목적은 지역 사회 내에 더 나은 관계를 조성하는 것이다.
+pervasive	만연하는, (구석구석) 스며[배어]드는	a pervasive smell of damp.	구석구석 배어드는 습한 냄새.
+adventitious	우발적인, 우연한		
+lukewarm	미지근한	Our food was only lukewarm.	우리 음식은 미지근하기만 했다.
+deleterious	해로운, 유해한		
+banal	지극히 평범한, 따분한, 시시한	진부한 표현.	a cliché.
+blunder	(어리석은) 실수	to make a terrible blunder.	끔찍한 실수를 저지르다.
+hospitable	(손님・방문객을) 환대하는, 친절한	The local people are very hospitable to strangers.	그 지역 사람들은 낯선 사람들에게 아주 친절하다.
+monetary	통화[화폐]의	monetary policy/growth.	통화 정책/팽창.
+delve	(무엇을 찾으려고 가방 등을) 뒤지다	She delved in her handbag for a pen.	그녀는 펜을 찾아 가방 속을 뒤졌다.
+lenient	(처벌・규칙 적용이) 관대한	a lenient sentence/fine.	관대한 형량/벌금.
+diffuse	널리 퍼진, 분산된	diffuse light.	분산된 빛.
+barely	간신히, 가까스로, 빠듯하게	The music was barely audible.	그 음악은 간신히 들릴 정도였다.
+crucial	중대한, 결정적인	a crucial factor/issue/decision.	중대한 요소/사안/결정.
+spinach	시금치	시금치 한 단 주세요.	.
+subsequent	그[이] 다음의, 차후의	subsequent generations.	그 다음 세대들.
+nullify	(합의・명령 등을) 무효화하다	Judges were unwilling to nullify government decisions.	판사들은 정부 결정을 무효화하기를 꺼렸다.
+revision	수정[정정] (사항)	He made some minor revisions to the report before printing it out.	그가 그 보고서를 인쇄하기 전에 사소한 것 몇 가지를 정정했다.
+negligence	부주의, 태만; 과실	The accident was caused by negligence on the part of the driver.	그 사고는 운전자측의 부주의로 일어났다.
+relegate	격하[좌천]시키다, (덜 중요한 위치로) 밀쳐 버리다	She was then relegated to the role of assistant.	그 뒤에 그녀는 조수 역할로 격하되었다.
+presumptuous	주제넘은, 건방진	주제넘은 짓을 하다.	do sth presumptuous.
+exaggerate	과장하다	The hotel was really filthy and I'm not exaggerating.	그 호텔은 정말 더러웠어. 과장이 아냐.
+coerce	(협박하여) 강압하다[강제하다]	They were coerced into negotiating a settlement.	그들은 합의를 이끌어 내도록 강요받았다.
+revenue	(정부・기관의) 수익[수입/세입]	a shortfall in tax revenue.	세입상의 적자.
+figurehead	명목상의 최고위자	간판뿐인 사장.	.
+allowance	용돈; (특정 목적을 위한) 비용[수당]	an allowance of $20 a day.	하루 20달러의 용돈.
+fluctuate	변동[등락]을 거듭하다	fluctuating prices.	변동이 심한 물가.
+apparel	(매장에서 판매되는) 의류	The store sells women's and children's apparel.	그 매장에서는 여성복과 아동복을 판다.
+throe	[보통 pl.] 격통(激痛), 심한 고통	단말마의 고통으로 몸부림치다.	writhe in the throes of death.
+impair	손상[악화]시키다	매를 아끼면 아이를 버린다.	.
+ebullient	패기만만한, 사기가 충천한	The Prime Minister was in ebullient mood.	수상은 패기만만한 분위기였다.
+contempt	경멸, 멸시	She looked at him with contempt.	그녀가 그를 경멸어린 눈초리로 쳐다보았다.
+extinct	멸종된	an extinct species.	멸종된 종.
+vigilant	바짝 경계하는, 조금도 방심하지 않는	A pilot must remain vigilant at all times.	조종사는 항상 경계를 게을리하지 않아야 한다.
+collide	충돌하다, 부딪치다	The car and the van collided head-on in thick fog.	그 승용차와 밴은 짙은 안개 속에서 정면충돌을 했다.
+galling	짜증나는, 화나는	It was galling to have to apologize to a man she hated.	그녀가 싫어하는 남자에게 사과를 해야 한다는 것은 짜증스러운 일이었다.
+profound	(영향・느낌・경험 등이) 엄청난[깊은]	profound changes in the earth's climate.	지구 기후의 엄청난 변화.
+gingerly	조심조심	He opened the box gingerly and looked inside.	그는 상자를 조심조심 열고 안을 들여다보았다.
+wane	약해지다, 줄어들다, 시들해지다	Her enthusiasm for the whole idea was waning rapidly.	그 아이디어 전체에 대한 그녀의 열의는 급속히 시들해졌다.
+circulate	순환하다; 순환시키다	The condition prevents the blood from circulating freely.	그 질환은 자유로운 혈액 순환을 방해한다.
+acclaim	칭송하다, 환호를 보내다	a highly/widely acclaimed performance.	크게/널리 환호를 받은 공연.
+tenacious	집요한, 완강한; 결연한	a tenacious grip.	완강하게 움켜잡은 손아귀[완강한 손아귀].
+tedious	지루한, 싫증나는	The journey soon became tedious.	그 여정은 곧 지루해졌다.
+transitory	일시적인, 덧없는	the transitory nature of his happiness.	그의 행복의 덧없는 속성.
+bombshell	(불쾌한) 폭탄선언, 몹시 충격적인 일[소식]	The news of his death came as a bombshell.	그의 사망 소식은 몹시 충격적으로 다가왔다.
+avaricious	탐욕스러운, 욕심 많은(greedy)	탐욕스런 생각을 하다.	think greedy[covetous] thoughts.
+sentient	지각이 있는	Man is a sentient being.	인간은 지각이 있는 존재이다.
+faint	(빛・소리・냄새 등이) 희미한[약한]	a faint glow/glimmer/light.	희미한 빛.
+aperture	(작은) 구멍	조리개를 열다.	open the aperture[iris].
+atrophy	(혈액 부족으로 인한 신체 부위의) 위축(증)	The cultural life of the country will sink into atrophy unless more writers and artists emerge.	작가와 예술가들이 더 등장하지 않으면 국가의 문화생활이 위축될 것이다.
+secular	세속적인	secular music.	세속적인 음악.
+scrutinize	세심히 살피다, 면밀히 조사[검토]하다	She leaned forward to scrutinize their faces.	그녀가 앞으로 몸을 숙이고 그들의 얼굴을 세심히 살폈다.
+codify	(법률 등을) 성문화하다	to break/crack a code.	암호를 풀다[해독하다].
+benign	상냥한, 유순한	인자한 미소.	a benevolent smile.
+prerogative	특권, 특혜	In many countries education is still the prerogative of the rich.	많은 나라들에서는 교육이 아직도 부자들의 특권이다.
+sibling	(한 명의) 형제자매[동기]	squabbles between siblings.	형제[동기] 간의 싸움.
+succulent	즙이 많은	a succulent pear / steak.	즙[물]이 많은 배/육즙이 많은 스테이크.
+panacea	(비유적인 의미의) 만병통치약		
+amenity	생활 편의 시설	The campsite is close to all local amenities.	그 캠프장은 지역의 모든 편의 시설과 가깝다.
+acquit	무죄를 선고하다	The jury acquitted him of murder.	배심원단이 그의 살인 혐의에 대해 무죄를 선언했다.
+prosaic	평범한, 상상력이 없는	a prosaic style.	평범한 스타일.
+compound	복합체	compound a medicine.	약을 조제하다.
+contradict	(어떤 사람의 말을) 부정[부인]하다, 반박하다	All evening her husband contradicted everything she said.	저녁 내내 그녀의 남편은 그녀가 하는 모든 말을 반박했다.
+collapse	붕괴되다, 무너지다	The roof collapsed under the weight of snow.	지붕이 눈의 무게를 못 이기고 내려앉았다.
+fracture	골절 (부위); 균열, (갈라진) 금	a fracture of the leg / skull.	다리/두개골 골절.
+impetuous	성급한, 충동적인	an impetuous young woman.	충동적인 젊은 여성.
+fanatic	(…에) 광적인 사람	a fitness/crossword, etc. fanatic.	몸매[건강] 관리/십자말 퍼즐 등에 광적인 사람.
+interrupt	(말・행동을) 방해하다[중단시키다/가로막다]	Sorry to interrupt, but there's someone to see you.	방해해서 죄송해요. 어떤 분이 찾아왔어요.
+viable	실행 가능한, 성공할 수 있는	a viable option/proposition.	실행 가능한 선택안/계획.
+relevant	(논의 중인 주제・생각하는 상황과 밀접하게) 관련 있는, 적절한	a relevant suggestion / question / point.	적절한 제안/질문/포인트.
+pragmatic	실용적인	a pragmatic approach to management problems.	경영[관리]상의 문제들에 대한 실용적인 접근법들.
+disappoint	실망시키다, 실망을 안겨 주다	Her decision to cancel the concert is bound to disappoint her fans.	그녀의 그 콘서트 취소 결정은 틀림없이 팬들에게 실망을 안겨 줄 것이다.
+brink	(아주 새롭거나 위험하거나 흥미로운 상황이 발생하기) 직전	on the brink of collapse/war/death/disaster.	붕괴/전쟁/사망/재난 직전인.
+exhortation	[U] 간곡한 권고, 장려; 경고, 훈계	The party leader exhorted his members to start preparing for government.	그 당 대표는 당 구성원들에게 정권을 잡을 준비를 시작할 것을 촉구했다.
+indigenous	(어떤 지역) 원산의[토착의]	the indigenous peoples/languages of the area.	그 지역 토착민들/토착 언어들.
+attribute	(~을 …의) 결과로[덕분으로] 보다	She attributes her success to hard work and a little luck.	그녀는 자신의 성공을 성실한 노력에 약간의 행운이 따른 결과로 본다.
+contagious	(접촉을 통해) 전염되는, 전염성의	Scarlet fever is highly contagious.	성홍열은 대단히 전염성이 강하다.
+fallacious	잘못된, 틀린	a fallacious argument.	잘못된 주장.
+intrinsic	고유한, 본질적인	the intrinsic value of education.	교육의 고유한[본질적인] 가치.
+courier	운반[배달]원; 택배 회사	We sent the documents by courier.	우리는 그 서류를 배달원을 통해 보냈다.
+rebuke	힐책[질책]하다, 꾸짖다	The company was publicly rebuked for having neglected safety procedures.	그 회사는 안전 규정 소홀로 공개적인 질책을 받았다.
+nervous	불안해[초조해/두려워] 하는	Consumers are very nervous about the future.	소비자들은 미래에 대해 몹시 불안해한다.
+bent	구부러진, 휜	a piece of bent wire.	구부러진 철사 한 조각.
+embrace	(껴)안다, 포옹하다	They embraced and promised to keep in touch.	그들은 서로 껴안으며 계속 연락하기로 약속했다.
+black out	검은	a shiny black car.	반짝거리는 검은색 승용차.
+curtail	축소[삭감/단축]시키다	Spending on books has been severely curtailed.	도서 구입비가 대폭 삭감되었다.
+obsolete	더 이상 쓸모가 없는, 한물간, 구식의	obsolete technology.	한물간 기술.
+atrocity	(특히 전시의) 잔혹 행위	She speaks French with an atrocious accent.	그녀는 형편없는 발음으로 프랑스어를 한다[그녀의 프랑스어 발음은 형편없다.].
+restrain	(특히 물리력을 동원하여) 저지[제지]하다	The prisoner had to be restrained by the police.	그 죄수[재소자]는 경찰이 저지를 해야 했다.
+enormous	막대한, 거대한	an enormous house / dog.	거대한 주택/개.
+evoke	(감정・기억・이미지를) 떠올려 주다[환기시키다]	The music evoked memories of her youth.	그 음악을 들으니 그녀는 젊은 날의 추억이 떠올랐다.
+compatible	호환이 되는	compatible software.	호환이 되는 소프트웨어.
+prolong	연장시키다, 연장하다	The operation could prolong his life by two or three years.	그 수술은 그의 생명을 2, 3년 연장시킬 수 있을 것이다.
+adept	능숙한	He is widely regarded as Hungary's most skilful politician.	
+frivolous	경솔한, 바보 같은; 까부는	frivolous comments/suggestions.	경솔한 논평/제안.
+stringent	엄중한	stringent air quality regulations.	엄중한 대기의 질 관련 규정.
+chronic	만성적인	chronic bronchitis / arthritis / asthma.	만성 기관지염/관절염/천식.
+indelible	잊을[지울] 수 없는	The experience made an indelible impression on me.	그 경험은 나에게 잊을 수 없는 각인을 남겼다.
+edible	먹을 수 있는, (독이 없어서) 먹어도 되는[식용의]	The food at the hotel was barely edible.	그 호텔의 음식은 간신히 먹을 만한 정도였다.
+veer	방향을 홱 틀다[바꾸다]	The bus veered onto the wrong side of the road.	그 버스가 방향을 홱 틀며 (제 길에서 벗어나) 도로 반대쪽으로 들어갔다.
+loquacious	말이 많은		
+furtive	은밀한; 엉큼한	She cast a furtive glance over her shoulder.	그녀가 자기 어깨 뒤쪽으로 은밀히 시선을 던졌다.
+counteract	(무엇의 악영향에) 대응하다	These exercises aim to counteract the effects of stress and tension.	이 운동들은 스트레스와 긴장감이 초래하는 영향을 해소하는 데 목적이 있다.
+analogous	유사한	Sleep has often been thought of as being in some way analogous to death.	수면은 어떤 면에서 죽음과 유사한 것으로 흔히 생각되어져 왔다.
+intervene	(상황 개선을 돕기 위해) 개입하다	The President intervened personally in the crisis.	대통령이 직접 그 위기 사태에 개입했다.
+omniscient	모든 것을 다 아는, 전지의	The novel has an omniscient narrator.	그 소설에는 전지적 시점의 화자가 나온다[그 소설은 전지적 화자 시점에서 쓰였다].
+leftover	(식사 후에) 남은 음식	라면 국물에 찬밥을 말아 먹다.	.
+adjacent	인접한, 가까운	The planes landed on adjacent runways.	그 비행기들은 가까운 활주로에 착륙했다.
+distill		( distill+[목]+[전]+[명] ) distill freshwater from seawater = distill seawater into freshwater.	바닷물을 증류해서 민물로 만들다.
+nocturnal	야행성의	몽정을 하다.	have a wet dream.
+addict	(약물 등의) 중독자	a heroin/drug/nicotine addict.	헤로인/약물/니코틴 중독자.
+salvage	(특히 재난・사고로부터 재화의) 구조, (침몰선의) 인양	the salvage of the wrecked tanker.	조난당한 유조선 구조.
+abridge	(책・희곡 등을) 요약[축약]하다		
+hypodermic	피하 주사기	피하주사를 놓다.	inject (medicine) beneath the skin.
+infinite	(수량이) 무한한[무한정의]	an infinite variety of plants.	무한히 다양한 식물들.
+fortify	(특히 높은 성벽을 쌓아) 요새화하다	a fortified town.	요새화한 도시.
+repeal	(법률을) 폐지하다	사형 제도를 폐지하다.	.
+permeation	침투, 삼투; 충만	The smell of leather permeated the room.	가죽 냄새가 방 안에 스며 있었다.
+sluggish	느릿느릿 움직이는; 부진한	sluggish traffic.	느릿느릿 움직이는 자동차들.
+stem	(식물의) 줄기	고구마 줄기를 볶다.	fry sweet potato stems.
+bizarre	기이한, 특이한	a bizarre situation / incident / story.	기이한 상황/사건/이야기.
+autonomous	자주적인, 자치의	an autonomous republic/state/province.	자주 공화국/자주 국가/자치 주/자치 지역.
+accept	(기꺼이) 받아들이다	He asked me to marry him and I accepted.	그가 나에게 자기와 결혼해 달라고 해서 난 그러겠다고 했다.
+recuperate	(건강・원기를) 회복하다[되찾다]	He's still recuperating from his operation.	그는 수술을 받고 아직도 회복 중이다.
+presume	(실질적인 증거는 없지만 사실일 것이라고) 추정하다[여기다/생각하다]	They are very expensive, I presume?.	(추정컨대) 그것들은 아주 비싸겠죠?.
+tolerance	용인, 관용, 아량	She had no tolerance for jokes of any kind.	그녀는 어떤 종류의 농담도 용인하지 않았다.
+frugal	절약하는	a frugal existence/life.	절약하는 생활.
+unrelenting	끊임없는, 수그러들 줄 모르는	unrelenting pressure.	끊임없는 압박.
+disparity	(특히 한쪽에 불공평한) 차이	the wide disparity between rich and poor.	빈부간의 큰 격차.
+imperceptible	(너무 작아서) 감지할 수 없는	imperceptible changes in temperature.	감지할 수 없는 기온 변화.
+evince	(감정・특질을) 분명히 밝히다[피력하다]	He evinced a strong desire to be reconciled with his family.	그는 가족과 화해하고픈 강한 바람을 피력했다.
+travesty	(…의) 졸렬한 모방[모조품]	The trial was a travesty of justice.	그 재판은 정의의 졸렬한 모방에 불과했다.
+acerbate	시게[떫게] 하다; 화나게 하다		
+concert	연주회, 콘서트	a concert of music by Bach.	바흐 음악 연주회.
+differentiate	구별하다	It's difficult to differentiate between the two varieties.	그 두 변이형은 구별하기가 어렵다.
+decelerate	(차량의) 속도를 줄이다	차를 시속 20킬로미터로 감속하다.	.
+vulnerable	(~에) 취약한, 연약한(신체적・정서적으로 상처받기 쉬움을 나타냄)	to be vulnerable to attack.	공격에 취약하다.
+impregnable	난공불락의	an impregnable fortress.	난공불락의 요새.
+desert	사막	the Sahara Desert.	사하라 사막.
+futile	헛된, 소용없는	a futile attempt/exercise/gesture.	헛된 시도/연습/몸짓.
+debacle	대실패, 큰 낭패	It was the second air disaster in the region in less than two months.	
+evacuate	(위험 지역에서 사람들을) 대피[소개(疏開)]시키다	Police evacuated nearby buildings.	경찰이 인근 건물들을 소개시켰다.
+trigger	(총의) 방아쇠	to pull/squeeze the trigger.	방아쇠를 당기다.
+enthrall	마음을 사로잡다	The child watched, enthralled by the bright moving images.	그 아이는 밝게 움직이는 이미지들에 온통 마음을 빼앗긴 채 바라보았다.
+gem	보석	a crown studded with gems.	보석들이 박힌 왕관.
+proceed	(이미 시작된 일을[이] 계속) 진행하다[되다]	We're not sure whether we still want to proceed with the sale.	우리가 아직도 그 매매를 계속 진행하고 싶은지는 잘 모르겠다.
+imminent	금방이라도 닥칠 듯한, 목전의, 임박한	the imminent threat of invasion.	목전의 침략 위협.
+dilapidate	 헐다, 헐어지다; 황폐케 하다[해지다]; [고어]  탕진하다; 낭비하다(squander)		
+decline	(수・가치・품질 등의 지속적인) 감소[하락/축소]	a rapid/sharp/gradual decline.	급속한/급격한/완만한 감소[하락].
+efficient	능률적인, 유능한; 효율적인	an efficient secretary.	유능한 비서.
+impact	(강력한) 영향, 충격	the environmental impact of tourism.	관광이 환경에 미치는 영향.
+complimentary	무료의	complimentary tickets for the show.	그 쇼의 무료 티켓[초대권].
+orbit	궤도	the earth's orbit around the sun.	태양 주위의 지구 궤도.
+famine	기근	a severe famine.	심각한 기근.
+evaporate	(액체가[를]) 증발하다[시키다]	Heat until all the water has evaporated.	수분이 모두 증발할 때까지 열을 가하라.
+supplant	(특히 낡거나 구식이 된 것을) 대신[대체]하다	중간 고사는 리포트로 대체할 것이다.	.
+assess	(특성・자질 등을) 재다[가늠하다]	It's difficult to assess the effects of these changes.	이들 변화의 영향을 가늠하기는 어렵다.
+hamlet	아주 작은 마을	열 채 남짓한 집들이 하나의 촌락을 이루고 있었다.	.
+complacent	현실에 안주하는, 자기만족적인	a dangerously complacent attitude to the increase in unemployment.	실업률 증가에 대해 위험할 정도로 현실 안주적인 태도.
+capacity	용량; 수용력	The theatre has a seating capacity of 2000.	그 극장은 수용 인원이 2천 명이다.
+eminent	저명한	an eminent architect.	저명한 건축가.
+aggravate	(질병이나 좋지 못한 상황을) 악화시키다	Pollution can aggravate asthma.	공해가 천식을 악화시킬 수 있다.
+devaluate			
+callous	냉담한	a callous killer/attitude/act.	냉담한 살인자/태도/행동.
+atheist	무신론자		
+enforce	(법률 등을) 집행[시행/실시]하다	It's the job of the police to enforce the law.	법을 집행하는 것이 경찰이 할 일이다.
+anachronism	시대착오적인 사람[관습/생각]	The monarchy is seen by many people as an anachronism in the modern world.	현대 세상에서는 많은 사람들이 군주제를 시대착오적인 것으로 여긴다.
+evolve	(점진적으로) 발달[진전]하다[시키다]	The idea evolved from a drawing I discovered in the attic.	그 아이디어는 내가 다락방에서 발견한 한 장의 그림에서 진전된 것이다.
+striking	눈에 띄는, 두드러진, 현저한	a striking feature.	두드러진 특징.
+merge	합병[병합]하다, 합치다	The banks are set to merge next year.	그 은행들은 내년에 합병하기로 되어 있다.
+brevity	간결성	The report is a masterpiece of brevity.	그 보고서는 간결성의 극치를 보여준다.
+commensurate	(크기・중요도・자질 등에) 어울리는[상응하는]	Salary will be commensurate with experience.	보수는 경력에 상응하여 지불된다.
+discrepancy	(같아야 할 것들 사이의) 차이[불일치]	wide discrepancies in prices quoted for the work.	그 작업에 대해 제시된 가격들 사이의 큰 차이.
+tenuous	미약한, 보잘것없는	a tenuous hold on life.	미약하게 삶을 지탱하고[움켜잡고] 있는 의지.
+entrepreneur	(특히 모험적인) 사업가[기업가]	그는 큰 공장을 경영하는 실업가다.	.
+ignominious	수치스러운, 창피한	an ignominious defeat.	수치스러운 패배.
+jaundiced	(특히 과거의 경험 때문에) …을 좋지 않게[비뚤어진 시선으로] 보는	He had a jaundiced view of life.	그는 삶에 대해 비뚤어진 생각을 갖고 있었다.
+genocide	집단[종족] 학살	난징대학살.	the Nanjing Massacre.
+opposite	(보통 마주 보고 있는 둘 중) 다른 편[쪽]의[건너편의]	Answers are given on the opposite page.	해답은 다른 쪽[옆] 페이지에 제시되어 있다.
+maul	(사람을 공격하여 살을 찢는) 상처를 입히다	돼지갈비에 양념을 넣어 주물럭거리다.	.
+libel	(문서에 의한) 명예훼손	He sued the newspaper for libel.	그는 그 신문사를 명예훼손으로 고소했다.
+sporadic	산발적인, 이따금 발생하는	sporadic fighting/gunfire/violence, etc.	산발적인 전투/포격/이따금 발생하는 폭력 사태 등.
+plagiarism	표절	There were accusations of plagiarism.	(여러 차례의) 표절 혐의가 제기되었다.
+incapacitate	(질병 등이) 정상적인 생활을 하지 못하게 만들다		
+expire	만료되다, 만기가 되다	When does your driving licence expire?.	당신 운전 면허증의 유효 기한이 언제예요?.
+delinquent	비행의, 범죄 성향을 보이는	delinquent teenagers.	비행 십대들.
+accuse	고발[기소/비난]하다, 혐의를 제기하다	to accuse sb of murder / theft.	…를 살인/절도 혐의로 기소하다.
+exonerate	무죄임[책임이 없음]을 밝혀 주다	The police report exonerated Lewis from all charges of corruption.	그 경찰 보고서로 루이스는 모든 부패 혐의를 벗게 되었다.
+claustrophobic	밀실 공포증을 앓는[느끼게 하는]	the claustrophobic atmosphere of the room.	밀실 공포증을 느끼게 하는 그 방의 분위기.
+descry	(불현듯) 보게 되다		
+corrosive	부식을 일으키는, 부식성의	the corrosive effects of salt water.	소금물의 부식 효과.
+initially	처음에	Initially, the system worked well.	처음에는 그 시스템이 잘 운영되었다.
+inactive	활동하지 않는; 활발하지 않은, 소극적인	Some animals are inactive during the daytime.	일부 동물은 낮 동안에는 활동을 하지 않는다.
+anthropology	인류학	인류학자.	an anthropologist.
+flaw	(사물의) 결함	The argument is full of fundamental flaws.	그 주장은 많은 근본적인 결함들을 안고 있다.
+harsh	가혹한, 냉혹한	The punishment was harsh and unfair.	그 처벌은 가혹하고 부당했다.
+disqualify	자격을 박탈하다, 실격시키다	He was disqualified from the competition for using drugs.	그는 약물 사용으로 그 시합에서 실격당했다.
+insignificance	무의미, 무가치; 사소한 일, 하찮음	an insignificant difference.	사소한 차이.
+disciplinary	징계의	a disciplinary hearing.	징계 청문회.
+simultaneously	동시에 ((with)); 일제히	There were several simultaneous attacks by the rebels.	반군들로부터 몇 건의 동시 공격이 있었다.
+potent	(사람의 심신에 미치는 영향이) 강한[강력한]	a potent drug.	효능이 강한 약.
+hail	(특히 신문 등에서 아주 훌륭하거나 특별한 것으로) 묘사하다[일컫다]	The conference was hailed as a great success.	그 대회는 대성공작으로 묘사되었다.
+all thumb	모든	All horses are animals, but not all animals are horses.	모든 말은 동물이다. 하지만 모든 동물이 말은 아니다.
+feasible	실현 가능한	a feasible plan / suggestion / idea.	(실현) 가능한 계획/제안/생각.
+fake	가짜의, 거짓된	fake designer clothing.	가짜[짝퉁] 유명 디자이너 의류.
+congenia		[형용사].	
+harness	마구(馬具)	Critics claim he exploited black musicians for personal gain.	
+acquiesce	묵인하다	Senior government figures must have acquiesced in the cover-up.	정부 고위 공직자들이 그 은폐 공작을 묵인했음이 분명하다.
+discharge	(어떤 장소나 직무에서) 떠나는 것을 허락하다; 해고하다	Patients were being discharged from the hospital too early.	환자들을 병원에서 너무 빨리 퇴원시키고 있었다.
+dissipate	소멸되다; 소멸하다[시키다]	Eventually, his anger dissipated.	마침내 그의 분노가 소멸되었다.
+contribute	기부[기증]하다	We contributed ￡5000 to the earthquake fund.	우리는 그 지진 사태에 대한 성금으로 5천 파운드를 기부했다.
+coverage	(신문・텔레비전・라디오의) 보도[방송]	media/newspaper/press coverage.	언론/신문/신문・잡지의 보도.
+forthright	솔직 담백한	a woman of forthright views.	솔직 담백한 태도를 지닌 여성.
+temperamental	신경질적인, 괴팍한	You never know what to expect with her. She's so temperamental.	그녀에게서는 무엇을 예상해야 할지 결코 알 수가 없다. 그녀는 너무나 괴팍하니까.
+yearn	갈망하다, 동경하다	The people yearned for peace.	사람들은 평화를 갈망했다.
+manifest	(특히 감정・태도・특질을 분명히) 나타내다[드러내 보이다]	Social tensions were manifested in the recent political crisis.	최근의 정치 위기에는 사회적 긴장감이 드러나 있었다.
+eccentric	괴짜인, 별난, 기이한	eccentric behaviour / clothes.	별난 행동/옷.
+consonant	자음 (소리)	한글은 14개의 자음과 10개의 모음으로 구성되어 있다.	Hangul consists of 14 consonants and 10 vowels.
+dispel	(특히 느낌・믿음을) 떨쳐 버리다[없애다]	His speech dispelled any fears about his health.	그의 연설은 그의 건강에 대한 모든 우려를 없앴다.
+deviate	(일상・예상 등을) 벗어나다	The bus had to deviate from its usual route because of a road closure.	그 버스는 도로 폐쇄 때문에 정상 노선을 벗어나서 달려야 했다.
+drench	흠뻑 적시다	We were caught in the storm and got drenched to the skin.	우리는 폭풍우를 만나 속옷까지 흠뻑 다 젖었다.
+blithe	(하는 일에 대해) 태평스러운	He drove with blithe disregard for the rules of the road.	그는 도로교통법 같은 건 무시하고 태평스럽게 운전을 했다.
+comprehensive	포괄적인, 종합적인	a comprehensive list of addresses.	종합적인 주소록.
+legitimate	정당한, 타당한, 적당한	a legitimate grievance.	정당한 불평.
+fervent	열렬한, 강렬한	a fervent admirer/believer/supporter.	열렬한 팬/신봉자/지지자.
+smother	질식시켜 죽이다	He smothered the baby with a pillow.	그는 베개를 가지고 그 아기를 질식시켜 죽였다.
+amorphous	확실한 형태가 없는, 무정형의	an amorphous mass of cells with no identity at all.	전혀 정체를 알 수 없는 무정형의 세포들 덩어리.
+concord	화합	living in concord with neighbouring states.	이웃 국가들과 화합하며 사는.
+commodity	상품, 물품; 원자재	rice, flour and other basic commodities.	쌀과 밀가루와 다른 기본 물품들.
+lucrative	수익성이 좋은	a lucrative business/contract/market.	수익성이 좋은 사업/계약/시장.
+specific	구체적인, 명확한, 분명한	I gave you specific instructions.	내가 당신에게 명확한 지시를 내렸었다.
+conceit	자만심	He conceived the idea of transforming the old power station into an arts centre.	그는 그 옛날 발전소 건물을 아트센터로 바꾸는 생각을 하고 있었다.
+collaborate	협력하다, 공동으로 작업하다	We have collaborated on many projects over the years.	우리는 여러 해 동안 많은 프로젝트에서 협력해 왔다.
+drizzle	(비가) 보슬보슬 내리다	이슬비가 내리고 있다.	It's drizzling.
+dissuade	(~을 하지 않도록) ~를 설득[만류]하다	I tried to dissuade him from giving up his job.	나는 그에게 직장을 그만두지 않도록 설득하려고 애를 썼다.
+acrimonious	폭언이 오가는, 험악한	His parents went through an acrimonious divorce.	그의 부모는 서로 악다구니를 퍼부으며 이혼했다.
+complex	복잡한	complex machinery.	복잡한 기계(장치).
+elaborate	정교한; 정성[공]을 들인	elaborate designs.	정교한 디자인.
+capitalize	대문자로 쓰다[인쇄하다]; (단어를) 대문자로 시작하다	The team failed to capitalize on their early lead.	그 팀은 초반의 주도권을 활용하지 못했다.
+credulous	잘 믿는[속는]	The plot of the novel stretches credulity to the limit.	그 소설의 줄거리는 거의 믿기가 힘들 정도이다.
+conserve	아끼다, 아껴 쓰다	Help to conserve energy by insulating your home.	집에 단열재를 써서 에너지를 아끼는 데 도움이 되게 하라.
+congregate	모이다	Young people often congregate in the main square in the evenings.	저녁이면 젊은이들이 주 광장에 자주 모인다.
+prevalent	(특정 시기・장소에) 일반적인[널리 퍼져 있는]	a prevalent view.	일반적인 견해.
+vessel	(대형) 선박[배]	ocean-going vessels.	원양 선박.
+conscience	양심	to have a clear/guilty conscience.	양심에 걸릴 게 없다/양심에 걸리다.
+capitulate	(오랫동안 거부하던 것에) 굴복하다	They were finally forced to capitulate to the terrorists' demands.	그들은 마침내 테러범들의 요구에 굴복해야 하게 되었다.
+forerunner	선구자, 전신(前身); 전조	Country music was undoubtedly one of the forerunners of rock and roll.	컨트리 음악은 의심할 여지없이 록앤롤의 전신 중 하나였다.
+fictitious	허구의, 지어낸	All the places and characters in my novel are fictitious.	내 소설에 나오는 모든 인물과 장소는 다 지어낸 것이다.
+domestic	국내의	domestic affairs/politics.	국내 문제/정책.
+rancid	(기름기가 든 음식이) 산패(酸敗)한[맛이 변한]		
+flatter	아첨하다, 알랑거리다	Are you trying to flatter me?.	너 나한테 아첨하는 거니?.
+account	계좌	I don't have a bank account.	나는 은행 계좌가 없다.
+stature	지명도, 위상	an actress of considerable stature.	상당한 지명도를 지닌 여배우.
+censure	견책, 불신임	a vote of censure on the government's foreign policy.	정부의 대외 정책에 대한 불신임 투표.
+dispense	나누어 주다, 내놓다	The machine dispenses a range of drinks and snacks.	그 기계에서는 다양한 음료와 스낵이 나온다.
+converge	모여들다, 집중되다	Thousands of supporters converged on London for the rally.	수천 명의 지지자들이 그 집회에 참석하기 위해 런던으로 모여들었다.
+colloquial	구어의, 일상적인 대화체의		
+perfunctory	형식[의무/습관]적인	a perfunctory nod / smile.	형식[의례]적으로 고개를 끄덕여 보임/웃어 보임.
+benediction	축복(의 기도)	축도를 하다.	give[say] a benediction.
+fathom	(의미 등을) 헤아리다[가늠하다]	It is hard to fathom the pain felt at the death of a child.	자식의 죽음을 직면하고 느끼는 고통을 헤아리기는 어렵다.
+eliminate	없애다, 제거[삭제]하다	Credit cards eliminate the need to carry a lot of cash.	신용 카드 때문에 많은 현금을 가지고 다닐 필요가 없다.
+mendacity	거짓된 행동; 허위		
+resentment	분함, 억울함, 분개	to feel/harbour/bear resentment towards/against sb.	…에게 분한 마음을 갖다[품다].
+encumber	지장을 주다	The police operation was encumbered by crowds of reporters.	경찰의 작전은 몰려든 기자들 때문에 지장을 받았다.
+reimburse	배상[변제]하다	You will be reimbursed for any loss or damage caused by our company.	저희 회사로 인한 어떤 손실이나 손상에 대해서도 배상을 해 드립니다.
+meek	온순한, 온화한	They called her Miss Mouse because she was so meek and mild.	그들은 그녀가 너무도 유순해서 그녀를 착한 아가씨라고 불렀다.
+parsimony	(돈에 지독히) 인색함		
+encounter	(특히 반갑지 않은 일에) 맞닥뜨리다[부딪히다]	We encountered a number of difficulties in the first week.	우리는 첫째 주에 몇 가지 어려움에 부딪혔다.
+solidify	굳어지다; 굳히다	The mixture will solidify into toffee.	그 혼합물이 굳어지면서 토피가 된다.
